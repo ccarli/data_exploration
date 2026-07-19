@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+    <head>
+        <link rel="stylesheet" crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/@perspective-dev/viewer/dist/css/pro.css" />
+    </head>
+<body>
+    <perspective-viewer style="height: 100vh;" id="psp_view"></perspective-viewer>
+</body>
+    <script type="module">
+        import perspective from "https://cdn.jsdelivr.net/npm/@perspective-dev/client/dist/cdn/perspective.js";
+        import "https://cdn.jsdelivr.net/npm/@perspective-dev/viewer/dist/cdn/perspective-viewer.js";
+        import "https://cdn.jsdelivr.net/npm/@perspective-dev/viewer-datagrid/dist/cdn/perspective-viewer-datagrid.js";
+        import "https://cdn.jsdelivr.net/npm/@perspective-dev/viewer-charts/dist/cdn/perspective-viewer-charts.js";
+
+        const response = await fetch("mock_data.csv");
+        const data = await response.text();
+        
+        const worker = await perspective.worker();
+        const table = await worker.table(data);
+        await window.psp_view.load(table);
+    </script>
+
+</html>
