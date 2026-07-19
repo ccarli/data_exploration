@@ -1,4 +1,4 @@
-# R&F data explorer
+# data explorer
 
 One-page webapp — plain HTML/CSS/JS, no build step — pairing an AI chat
 assistant with a [Perspective (FINOS)](https://perspective.finos.org/) dashboard.
