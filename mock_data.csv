@@ -1,0 +1,1001 @@
+isin,instrumentsubtype,country,businessline,signoffgroup,portfolionumber,counterpartycode,asset_or_liability,amount
+US0000000018,Govt Bond,LU,FX & Commodities,Product Control EQ,PTF_328,CP_3286,Asset,33836590.87
+FR0000000028,Corp Bond,HK,Structured Products,Product Control FI,PTF_130,CP_2535,Asset,11636881.37
+FR0000000038,Govt Bond,SG,Equities,Operations Signoff,PTF_529,CP_4611,Liability,29465337.87
+US0000000048,Equity,LU,Structured Products,Treasury Control,PTF_384,CP_3547,Asset,47860867.54
+DE0000000058,Corp Bond,GB,Structured Products,Product Control FI,PTF_467,CP_6635,Liability,40357378.02
+JP0000000068,Commercial Paper,GB,Structured Products,Product Control FI,PTF_665,CP_5803,Liability,28869720.5
+US0000000078,Govt Bond,NL,Equities,Treasury Control,PTF_181,CP_4814,Asset,19009410.62
+JP0000000088,CDS,DE,FX & Commodities,Treasury Control,PTF_314,CP_5374,Asset,30458504.63
+GB0000000098,Commercial Paper,LU,Equities,Product Control EQ,PTF_573,CP_7216,Liability,49476219.92
+FR0000000108,FX Forward,NL,FX & Commodities,Product Control FI,PTF_334,CP_1525,Liability,20061233.53
+US0000000118,FX Forward,ES,Treasury,Treasury Control,PTF_317,CP_9179,Liability,44234734.28
+JP0000000128,Equity,JP,Equities,Product Control EQ,PTF_862,CP_9830,Liability,37351955.51
+JP0000000138,Future,CA,FX & Commodities,Product Control EQ,PTF_241,CP_9348,Liability,4550016.06
+US0000000148,Corp Bond,DE,Wealth Management,Product Control EQ,PTF_911,CP_7916,Asset,19241441.75
+FR0000000158,Repo,SG,FX & Commodities,Operations Signoff,PTF_981,CP_1188,Asset,34087109.9
+FR0000000168,IRS Swap,IE,Wealth Management,Treasury Control,PTF_214,CP_5808,Liability,7912096.93
+US0000000178,IRS Swap,SG,Equities,Operations Signoff,PTF_208,CP_5889,Asset,7646199.23
+GB0000000188,Commercial Paper,IE,Treasury,Product Control FI,PTF_713,CP_6310,Liability,978739.74
+DE0000000198,IRS Swap,FR,Fixed Income,Product Control EQ,PTF_999,CP_2290,Asset,36596720.2
+US0000000208,Commercial Paper,IE,Equities,Product Control EQ,PTF_775,CP_8787,Asset,13256506.16
+FR0000000218,Option,FR,Treasury,Product Control EQ,PTF_830,CP_6107,Liability,49757492.09
+DE0000000228,Repo,ES,Treasury,Risk Management,PTF_223,CP_5061,Asset,3205974.69
+US0000000238,Future,SG,Equities,Operations Signoff,PTF_325,CP_1117,Asset,35393508.12
+US0000000248,FX Forward,GB,Fixed Income,Treasury Control,PTF_172,CP_9423,Asset,13927470.81
+JP0000000258,FX Forward,SG,Equities,Operations Signoff,PTF_690,CP_8744,Asset,39232048.12
+JP0000000268,FX Forward,GB,Fixed Income,Risk Management,PTF_462,CP_7939,Liability,23353898.28
+US0000000278,Corp Bond,US,Structured Products,Treasury Control,PTF_919,CP_2790,Asset,9583545.66
+FR0000000288,Repo,DE,Structured Products,Product Control EQ,PTF_385,CP_8579,Asset,43724925.27
+US0000000298,Repo,IE,Treasury,Product Control FI,PTF_151,CP_9856,Asset,48449967.88
+GB0000000308,Equity,CA,Structured Products,Risk Management,PTF_318,CP_7570,Asset,8236032.88
+US0000000318,Option,JP,Structured Products,Treasury Control,PTF_533,CP_8973,Asset,9498943.87
+GB0000000328,Govt Bond,HK,Wealth Management,Operations Signoff,PTF_162,CP_6138,Asset,2511866.15
+JP0000000338,Commercial Paper,ES,Treasury,Product Control EQ,PTF_158,CP_9320,Asset,42567870.55
+US0000000348,Future,GB,Wealth Management,Product Control EQ,PTF_513,CP_2964,Asset,28948058.28
+US0000000358,Future,GB,Structured Products,Operations Signoff,PTF_678,CP_9565,Liability,46735639.36
+GB0000000368,CDS,FR,FX & Commodities,Risk Management,PTF_234,CP_5915,Liability,15812278.93
+US0000000378,Govt Bond,AU,Treasury,Operations Signoff,PTF_202,CP_2200,Asset,25296705.28
+GB0000000388,CDS,ES,Fixed Income,Product Control EQ,PTF_478,CP_5669,Asset,21912037.73
+FR0000000398,IRS Swap,HK,Wealth Management,Operations Signoff,PTF_108,CP_5905,Asset,46946805.55
+GB0000000408,IRS Swap,GB,Fixed Income,Operations Signoff,PTF_259,CP_5462,Liability,30243467.2
+DE0000000418,FX Forward,NL,Wealth Management,Treasury Control,PTF_617,CP_9004,Liability,45267297.87
+US0000000428,Corp Bond,NL,Structured Products,Treasury Control,PTF_145,CP_1058,Liability,38557105.55
+DE0000000438,Equity,LU,Structured Products,Operations Signoff,PTF_822,CP_8007,Asset,5598134.66
+GB0000000448,Commercial Paper,US,FX & Commodities,Operations Signoff,PTF_665,CP_3426,Liability,6376638.74
+DE0000000458,CDS,ES,Fixed Income,Treasury Control,PTF_315,CP_5088,Asset,17687163.34
+FR0000000468,Option,HK,Wealth Management,Product Control EQ,PTF_342,CP_3662,Asset,44071403.15
+US0000000478,Equity,LU,FX & Commodities,Risk Management,PTF_921,CP_5065,Liability,7964096.16
+US0000000488,Option,IT,Fixed Income,Risk Management,PTF_327,CP_4269,Liability,17486172.93
+GB0000000498,FX Forward,US,Wealth Management,Product Control EQ,PTF_508,CP_6378,Liability,43218325.34
+DE0000000508,CDS,NL,Treasury,Risk Management,PTF_795,CP_9785,Liability,46962160.83
+US0000000518,IRS Swap,DE,Treasury,Treasury Control,PTF_139,CP_2776,Liability,17287627.15
+DE0000000528,Option,HK,Treasury,Product Control FI,PTF_494,CP_4114,Liability,2224104.75
+JP0000000538,Govt Bond,SG,Treasury,Product Control EQ,PTF_472,CP_8066,Asset,47443979.93
+DE0000000548,Future,CH,Wealth Management,Product Control FI,PTF_837,CP_5920,Liability,33346310.74
+DE0000000558,Option,LU,FX & Commodities,Operations Signoff,PTF_230,CP_4143,Liability,33248147.06
+JP0000000568,Equity,HK,Treasury,Treasury Control,PTF_515,CP_9977,Asset,15197228.09
+GB0000000578,Option,IE,Treasury,Operations Signoff,PTF_770,CP_6279,Liability,22092091.91
+GB0000000588,Commercial Paper,AU,Wealth Management,Product Control EQ,PTF_774,CP_2389,Liability,25775023.24
+FR0000000598,CDS,GB,Equities,Treasury Control,PTF_330,CP_4262,Asset,1226147.26
+GB0000000608,Repo,HK,Fixed Income,Risk Management,PTF_524,CP_4185,Liability,24721386.56
+GB0000000618,Equity,NL,Wealth Management,Product Control FI,PTF_868,CP_2746,Liability,10945962.63
+FR0000000628,Repo,US,Treasury,Product Control EQ,PTF_968,CP_2988,Liability,6671288.58
+JP0000000638,Commercial Paper,SG,Treasury,Treasury Control,PTF_873,CP_8251,Liability,41529305.64
+FR0000000648,Repo,ES,Equities,Risk Management,PTF_560,CP_5246,Asset,41993945.08
+DE0000000658,Commercial Paper,AU,Wealth Management,Product Control EQ,PTF_381,CP_8206,Asset,35678675.41
+GB0000000668,IRS Swap,CH,FX & Commodities,Operations Signoff,PTF_182,CP_3267,Asset,11566917.68
+GB0000000678,FX Forward,GB,Structured Products,Risk Management,PTF_438,CP_9890,Liability,20791632.83
+GB0000000688,Option,CA,Treasury,Product Control FI,PTF_977,CP_7232,Liability,299774.7
+DE0000000698,IRS Swap,IE,Structured Products,Risk Management,PTF_651,CP_9947,Asset,24414032.73
+DE0000000708,Option,AU,Fixed Income,Risk Management,PTF_444,CP_7624,Asset,42026080.62
+GB0000000718,Future,SG,Fixed Income,Risk Management,PTF_706,CP_1444,Asset,32139268.65
+GB0000000728,Repo,DE,Fixed Income,Treasury Control,PTF_488,CP_6363,Asset,22737692.75
+DE0000000738,Option,JP,Structured Products,Treasury Control,PTF_954,CP_2341,Liability,974067.44
+FR0000000748,Govt Bond,CH,Equities,Product Control FI,PTF_899,CP_1659,Asset,47480838.58
+GB0000000758,Govt Bond,HK,Equities,Product Control EQ,PTF_229,CP_8758,Asset,28200659.25
+GB0000000768,Repo,LU,FX & Commodities,Treasury Control,PTF_271,CP_2876,Asset,48236215.05
+US0000000778,Future,US,FX & Commodities,Operations Signoff,PTF_793,CP_7149,Liability,47073822.57
+GB0000000788,Corp Bond,HK,Wealth Management,Product Control EQ,PTF_204,CP_5941,Asset,39812379.69
+FR0000000798,Govt Bond,CH,Treasury,Risk Management,PTF_777,CP_7071,Asset,25300509.68
+DE0000000808,Govt Bond,IT,Structured Products,Risk Management,PTF_208,CP_8102,Liability,31781077.38
+JP0000000818,Equity,CA,Equities,Operations Signoff,PTF_766,CP_5425,Liability,23246364.21
+FR0000000828,IRS Swap,CH,Equities,Product Control FI,PTF_385,CP_8385,Asset,37525061.71
+FR0000000838,Future,NL,Structured Products,Treasury Control,PTF_129,CP_9098,Liability,9096083.66
+GB0000000848,CDS,IE,FX & Commodities,Treasury Control,PTF_386,CP_5526,Asset,25833779.45
+GB0000000858,Corp Bond,FR,Wealth Management,Risk Management,PTF_600,CP_4937,Liability,32296915.47
+JP0000000868,Repo,IE,Fixed Income,Product Control FI,PTF_401,CP_4630,Liability,34590898.83
+DE0000000878,Future,CH,Structured Products,Operations Signoff,PTF_643,CP_6632,Liability,49831590.04
+FR0000000888,CDS,CH,Wealth Management,Risk Management,PTF_377,CP_6023,Liability,11530749.37
+GB0000000898,CDS,GB,Wealth Management,Operations Signoff,PTF_880,CP_4033,Asset,10823150.07
+JP0000000908,IRS Swap,LU,Treasury,Operations Signoff,PTF_711,CP_5636,Asset,41632255.02
+DE0000000918,FX Forward,CH,Equities,Treasury Control,PTF_114,CP_9751,Asset,13719194.78
+US0000000928,Commercial Paper,JP,Wealth Management,Product Control EQ,PTF_753,CP_9042,Asset,43636623.15
+FR0000000938,IRS Swap,AU,Structured Products,Risk Management,PTF_448,CP_4020,Asset,12627657.13
+JP0000000948,Corp Bond,IT,Fixed Income,Risk Management,PTF_603,CP_2213,Asset,7590591.71
+FR0000000958,IRS Swap,GB,Equities,Product Control FI,PTF_671,CP_7818,Asset,38785798.52
+JP0000000968,Repo,ES,Structured Products,Treasury Control,PTF_980,CP_8025,Liability,28433630.38
+US0000000978,Future,LU,Fixed Income,Product Control EQ,PTF_740,CP_4457,Liability,33023104.72
+GB0000000988,FX Forward,DE,Treasury,Product Control FI,PTF_260,CP_1043,Liability,22527932.71
+FR0000000998,Repo,JP,Fixed Income,Product Control EQ,PTF_395,CP_5632,Liability,3563632.11
+GB0000001008,IRS Swap,IE,Wealth Management,Operations Signoff,PTF_777,CP_4241,Liability,5743241.24
+GB0000001018,Equity,ES,FX & Commodities,Product Control EQ,PTF_173,CP_1977,Asset,39632465.17
+FR0000001028,Future,ES,FX & Commodities,Risk Management,PTF_227,CP_8679,Liability,34988185.58
+DE0000001038,Commercial Paper,SG,Structured Products,Risk Management,PTF_182,CP_1653,Liability,36728023.49
+FR0000001048,IRS Swap,US,Fixed Income,Product Control EQ,PTF_790,CP_1339,Liability,28814468.0
+GB0000001058,Repo,SG,Wealth Management,Risk Management,PTF_384,CP_3973,Liability,31741062.05
+JP0000001068,Corp Bond,AU,FX & Commodities,Risk Management,PTF_441,CP_6260,Asset,42887366.05
+DE0000001078,Option,LU,Structured Products,Treasury Control,PTF_778,CP_7561,Asset,22744021.3
+DE0000001088,IRS Swap,CH,Fixed Income,Risk Management,PTF_985,CP_9431,Asset,32884731.02
+FR0000001098,Repo,CA,Fixed Income,Product Control EQ,PTF_630,CP_6927,Liability,31272310.06
+US0000001108,FX Forward,JP,Treasury,Product Control EQ,PTF_394,CP_8178,Liability,6075697.04
+FR0000001118,FX Forward,LU,Equities,Treasury Control,PTF_664,CP_1224,Liability,4664994.02
+US0000001128,Repo,GB,Wealth Management,Product Control EQ,PTF_610,CP_5781,Liability,20777439.7
+JP0000001138,Repo,FR,Structured Products,Operations Signoff,PTF_248,CP_7284,Asset,46093798.16
+FR0000001148,Equity,IT,Fixed Income,Treasury Control,PTF_891,CP_7798,Liability,46712748.44
+FR0000001158,IRS Swap,IT,Fixed Income,Treasury Control,PTF_843,CP_5891,Liability,43263703.43
+JP0000001168,Commercial Paper,AU,FX & Commodities,Treasury Control,PTF_665,CP_9903,Liability,22769954.12
+DE0000001178,FX Forward,LU,Equities,Operations Signoff,PTF_492,CP_4826,Liability,2187146.72
+JP0000001188,Option,CA,Wealth Management,Product Control EQ,PTF_607,CP_1606,Asset,25117046.05
+FR0000001198,CDS,IT,Fixed Income,Risk Management,PTF_202,CP_9617,Liability,772303.16
+GB0000001208,Option,IT,Wealth Management,Product Control EQ,PTF_176,CP_8692,Liability,16931368.9
+JP0000001218,Corp Bond,IT,FX & Commodities,Operations Signoff,PTF_489,CP_6188,Liability,43619788.95
+US0000001228,Future,GB,Equities,Treasury Control,PTF_332,CP_2480,Liability,48916994.72
+US0000001238,Repo,DE,Wealth Management,Treasury Control,PTF_129,CP_1753,Liability,39808192.54
+DE0000001248,CDS,CH,Structured Products,Product Control EQ,PTF_350,CP_9702,Liability,28298573.46
+GB0000001258,Equity,DE,Fixed Income,Operations Signoff,PTF_991,CP_7267,Asset,24885874.28
+FR0000001268,Equity,FR,Structured Products,Treasury Control,PTF_570,CP_5183,Asset,44945932.04
+JP0000001278,IRS Swap,NL,Treasury,Product Control EQ,PTF_175,CP_8237,Liability,49382646.5
+DE0000001288,Option,LU,FX & Commodities,Risk Management,PTF_965,CP_5949,Asset,49968681.41
+JP0000001298,Corp Bond,FR,Structured Products,Operations Signoff,PTF_467,CP_5847,Liability,1101870.19
+JP0000001308,IRS Swap,US,Treasury,Product Control FI,PTF_720,CP_9138,Liability,38788170.28
+GB0000001318,Future,IE,FX & Commodities,Product Control EQ,PTF_751,CP_4115,Liability,33889834.11
+GB0000001328,Corp Bond,ES,Wealth Management,Product Control FI,PTF_416,CP_8222,Asset,28980792.4
+GB0000001338,Corp Bond,ES,FX & Commodities,Treasury Control,PTF_865,CP_7807,Asset,10043735.76
+FR0000001348,CDS,SG,Treasury,Treasury Control,PTF_950,CP_3695,Liability,45702877.43
+JP0000001358,IRS Swap,LU,FX & Commodities,Product Control FI,PTF_579,CP_2233,Asset,37708803.9
+GB0000001368,Option,IT,Treasury,Treasury Control,PTF_192,CP_7464,Asset,13226606.62
+US0000001378,Repo,CH,Wealth Management,Treasury Control,PTF_698,CP_7242,Liability,5421763.38
+GB0000001388,Repo,US,Treasury,Operations Signoff,PTF_435,CP_4626,Asset,31772019.1
+JP0000001398,IRS Swap,NL,Structured Products,Product Control FI,PTF_243,CP_1742,Asset,15221707.39
+JP0000001408,Corp Bond,GB,Equities,Operations Signoff,PTF_238,CP_7367,Liability,18553720.72
+FR0000001418,Option,HK,Wealth Management,Product Control EQ,PTF_524,CP_2622,Liability,30784532.44
+DE0000001428,Govt Bond,LU,FX & Commodities,Product Control EQ,PTF_554,CP_8285,Asset,42773232.41
+US0000001438,CDS,SG,Wealth Management,Treasury Control,PTF_162,CP_7523,Liability,9494479.07
+US0000001448,Repo,GB,Wealth Management,Product Control EQ,PTF_757,CP_1349,Asset,39340795.55
+GB0000001458,Equity,IE,Treasury,Product Control EQ,PTF_170,CP_4394,Asset,40653583.79
+GB0000001468,CDS,IE,Equities,Operations Signoff,PTF_102,CP_5542,Asset,49376427.58
+FR0000001478,IRS Swap,IE,Equities,Product Control FI,PTF_776,CP_1422,Asset,747942.06
+GB0000001488,Future,CH,Fixed Income,Product Control EQ,PTF_371,CP_1858,Asset,37087194.26
+FR0000001498,Corp Bond,LU,Fixed Income,Risk Management,PTF_559,CP_6931,Asset,22603010.97
+GB0000001508,Future,US,Wealth Management,Operations Signoff,PTF_408,CP_8504,Asset,3045966.25
+JP0000001518,Option,CA,Wealth Management,Product Control FI,PTF_602,CP_8267,Asset,44963841.92
+DE0000001528,Future,DE,Fixed Income,Product Control EQ,PTF_381,CP_9984,Liability,19048315.42
+FR0000001538,Commercial Paper,JP,Structured Products,Operations Signoff,PTF_719,CP_8048,Asset,39655839.17
+US0000001548,Commercial Paper,LU,Equities,Risk Management,PTF_562,CP_4743,Liability,16949886.28
+JP0000001558,Option,CA,Wealth Management,Product Control FI,PTF_420,CP_7992,Liability,33257067.61
+DE0000001568,Equity,NL,Structured Products,Product Control FI,PTF_193,CP_2398,Asset,21596666.54
+DE0000001578,Equity,SG,Fixed Income,Operations Signoff,PTF_675,CP_6400,Asset,20543377.6
+JP0000001588,Govt Bond,JP,Treasury,Treasury Control,PTF_460,CP_2697,Asset,7740735.14
+JP0000001598,FX Forward,IT,Fixed Income,Treasury Control,PTF_965,CP_7022,Asset,38131468.57
+FR0000001608,FX Forward,IE,Structured Products,Operations Signoff,PTF_885,CP_1430,Liability,1452514.29
+DE0000001618,IRS Swap,ES,FX & Commodities,Treasury Control,PTF_106,CP_3972,Asset,28318223.13
+JP0000001628,Corp Bond,DE,Wealth Management,Product Control FI,PTF_193,CP_9691,Asset,18812839.31
+JP0000001638,CDS,DE,FX & Commodities,Treasury Control,PTF_838,CP_6314,Asset,44167692.51
+GB0000001648,Equity,IE,Treasury,Product Control FI,PTF_790,CP_2336,Liability,22158433.15
+JP0000001658,Repo,HK,Structured Products,Risk Management,PTF_379,CP_4531,Asset,17261916.91
+US0000001668,IRS Swap,NL,Wealth Management,Operations Signoff,PTF_598,CP_9633,Liability,2275641.04
+JP0000001678,Future,US,Fixed Income,Product Control EQ,PTF_408,CP_4460,Asset,38209223.98
+DE0000001688,CDS,GB,Fixed Income,Risk Management,PTF_864,CP_8055,Asset,6463639.16
+FR0000001698,FX Forward,SG,Treasury,Treasury Control,PTF_173,CP_7505,Asset,21813798.68
+JP0000001708,Corp Bond,IT,FX & Commodities,Operations Signoff,PTF_539,CP_7626,Liability,14479312.7
+JP0000001718,Govt Bond,CH,Equities,Operations Signoff,PTF_571,CP_6928,Asset,21838405.42
+US0000001728,FX Forward,CA,Treasury,Risk Management,PTF_636,CP_2288,Liability,43526868.19
+DE0000001738,FX Forward,CH,Equities,Product Control FI,PTF_622,CP_2868,Asset,45296606.97
+DE0000001748,CDS,LU,Wealth Management,Product Control EQ,PTF_341,CP_2684,Asset,12802131.26
+GB0000001758,Future,DE,Wealth Management,Product Control FI,PTF_281,CP_9095,Liability,37723519.03
+FR0000001768,Repo,NL,Treasury,Operations Signoff,PTF_430,CP_6179,Asset,21990942.0
+JP0000001778,Repo,NL,FX & Commodities,Treasury Control,PTF_705,CP_1920,Liability,25369307.58
+DE0000001788,Repo,AU,Fixed Income,Product Control FI,PTF_477,CP_5703,Asset,32235100.15
+US0000001798,Future,HK,Treasury,Risk Management,PTF_573,CP_1672,Liability,45452952.58
+FR0000001808,FX Forward,CH,Treasury,Risk Management,PTF_613,CP_3471,Asset,22528902.84
+DE0000001818,Corp Bond,SG,Wealth Management,Product Control EQ,PTF_140,CP_5059,Liability,49549346.2
+FR0000001828,Commercial Paper,HK,Equities,Treasury Control,PTF_481,CP_5634,Liability,20441426.02
+DE0000001838,Future,US,Wealth Management,Treasury Control,PTF_167,CP_6401,Asset,27900370.8
+JP0000001848,IRS Swap,JP,Wealth Management,Operations Signoff,PTF_994,CP_3463,Liability,4079691.86
+GB0000001858,CDS,JP,Wealth Management,Risk Management,PTF_232,CP_2388,Liability,27948308.89
+DE0000001868,Equity,NL,Wealth Management,Operations Signoff,PTF_195,CP_7937,Liability,916435.74
+DE0000001878,Equity,FR,FX & Commodities,Risk Management,PTF_296,CP_4711,Asset,7751483.92
+DE0000001888,Corp Bond,SG,Treasury,Operations Signoff,PTF_138,CP_6517,Asset,29864335.82
+GB0000001898,Equity,DE,Wealth Management,Operations Signoff,PTF_928,CP_3712,Liability,2189402.94
+DE0000001908,FX Forward,AU,Treasury,Treasury Control,PTF_870,CP_8355,Asset,26702887.43
+DE0000001918,Repo,ES,Equities,Treasury Control,PTF_794,CP_8218,Liability,38473080.41
+JP0000001928,Commercial Paper,SG,Structured Products,Product Control EQ,PTF_936,CP_4271,Asset,43650730.99
+US0000001938,Repo,IT,FX & Commodities,Operations Signoff,PTF_205,CP_9452,Asset,14256725.39
+GB0000001948,IRS Swap,AU,Treasury,Product Control EQ,PTF_950,CP_8167,Asset,47320931.08
+GB0000001958,Repo,ES,FX & Commodities,Product Control FI,PTF_524,CP_1872,Liability,25102845.7
+GB0000001968,Option,GB,FX & Commodities,Product Control EQ,PTF_128,CP_6221,Asset,41959618.5
+DE0000001978,Equity,DE,Fixed Income,Treasury Control,PTF_949,CP_8740,Asset,37943263.53
+JP0000001988,Repo,HK,Fixed Income,Product Control FI,PTF_119,CP_5193,Asset,41748980.15
+FR0000001998,Future,SG,Structured Products,Product Control FI,PTF_894,CP_5720,Asset,15061053.97
+US0000002008,FX Forward,CA,Wealth Management,Operations Signoff,PTF_568,CP_2029,Asset,41835202.59
+JP0000002018,Future,SG,Fixed Income,Operations Signoff,PTF_688,CP_4963,Asset,14567143.03
+US0000002028,Future,CH,Equities,Operations Signoff,PTF_526,CP_4068,Asset,26176610.46
+DE0000002038,Corp Bond,SG,Treasury,Operations Signoff,PTF_905,CP_9316,Asset,19525734.36
+JP0000002048,Govt Bond,NL,Structured Products,Treasury Control,PTF_359,CP_1266,Liability,39427058.21
+DE0000002058,FX Forward,LU,Wealth Management,Product Control FI,PTF_890,CP_6447,Asset,2221562.74
+FR0000002068,CDS,IT,Wealth Management,Product Control EQ,PTF_950,CP_8612,Liability,31588633.71
+GB0000002078,Corp Bond,LU,Structured Products,Product Control FI,PTF_400,CP_4302,Asset,39556505.12
+US0000002088,CDS,ES,FX & Commodities,Operations Signoff,PTF_507,CP_9897,Liability,12669421.69
+GB0000002098,IRS Swap,CH,Fixed Income,Treasury Control,PTF_379,CP_3039,Liability,21850384.4
+JP0000002108,Repo,ES,Structured Products,Treasury Control,PTF_291,CP_9129,Liability,18370509.61
+FR0000002118,IRS Swap,IE,Fixed Income,Risk Management,PTF_180,CP_8055,Asset,27275992.5
+DE0000002128,Corp Bond,GB,FX & Commodities,Treasury Control,PTF_413,CP_8305,Liability,8336405.38
+JP0000002138,CDS,AU,Fixed Income,Treasury Control,PTF_729,CP_8126,Liability,31975268.18
+US0000002148,Corp Bond,NL,Wealth Management,Risk Management,PTF_472,CP_9406,Asset,47639705.87
+GB0000002158,Future,NL,Structured Products,Product Control FI,PTF_229,CP_2101,Asset,38926876.1
+DE0000002168,CDS,CA,Treasury,Product Control FI,PTF_719,CP_3513,Liability,47441432.35
+DE0000002178,Repo,IE,Fixed Income,Operations Signoff,PTF_240,CP_9674,Liability,19904712.13
+DE0000002188,FX Forward,GB,Fixed Income,Product Control EQ,PTF_611,CP_9482,Liability,45677557.58
+US0000002198,IRS Swap,IE,FX & Commodities,Risk Management,PTF_319,CP_5678,Liability,10012916.16
+GB0000002208,Corp Bond,AU,Equities,Risk Management,PTF_189,CP_6236,Liability,35478476.64
+FR0000002218,Commercial Paper,JP,FX & Commodities,Product Control EQ,PTF_828,CP_3852,Liability,25440243.48
+US0000002228,FX Forward,IE,Equities,Product Control EQ,PTF_909,CP_9094,Asset,18048021.74
+FR0000002238,CDS,AU,Treasury,Product Control EQ,PTF_726,CP_2412,Asset,15467989.42
+JP0000002248,Commercial Paper,CA,Structured Products,Operations Signoff,PTF_175,CP_3053,Liability,32118717.78
+JP0000002258,Repo,NL,Treasury,Treasury Control,PTF_231,CP_3981,Asset,21633751.23
+US0000002268,Corp Bond,SG,Equities,Treasury Control,PTF_268,CP_3653,Liability,46737218.14
+GB0000002278,CDS,SG,FX & Commodities,Product Control FI,PTF_356,CP_4216,Liability,6262888.9
+DE0000002288,Future,SG,Fixed Income,Operations Signoff,PTF_756,CP_3762,Asset,8564175.15
+FR0000002298,Future,CH,Treasury,Product Control FI,PTF_945,CP_1464,Asset,2277862.86
+FR0000002308,IRS Swap,NL,Equities,Operations Signoff,PTF_526,CP_1496,Liability,44450399.09
+FR0000002318,IRS Swap,NL,FX & Commodities,Risk Management,PTF_350,CP_7653,Liability,22679938.93
+US0000002328,Equity,AU,Structured Products,Risk Management,PTF_575,CP_4342,Liability,30334979.84
+DE0000002338,CDS,LU,FX & Commodities,Risk Management,PTF_233,CP_7070,Asset,15959198.74
+JP0000002348,Corp Bond,JP,Structured Products,Product Control EQ,PTF_244,CP_2586,Asset,14514149.19
+JP0000002358,Future,CA,Equities,Product Control EQ,PTF_933,CP_6364,Liability,9495755.89
+GB0000002368,Repo,SG,Structured Products,Risk Management,PTF_415,CP_9148,Asset,4507004.51
+JP0000002378,Commercial Paper,AU,Equities,Product Control EQ,PTF_697,CP_6781,Asset,2531767.53
+JP0000002388,Future,ES,Wealth Management,Risk Management,PTF_392,CP_9793,Asset,42359382.41
+JP0000002398,Equity,ES,FX & Commodities,Treasury Control,PTF_882,CP_7606,Liability,2266893.51
+US0000002408,Future,SG,Equities,Treasury Control,PTF_666,CP_5728,Asset,19320509.5
+JP0000002418,Commercial Paper,JP,Treasury,Operations Signoff,PTF_221,CP_3108,Asset,19698216.12
+DE0000002428,Commercial Paper,CH,Equities,Product Control EQ,PTF_716,CP_9341,Liability,25006394.79
+US0000002438,Govt Bond,DE,Wealth Management,Treasury Control,PTF_923,CP_8761,Liability,7451288.53
+FR0000002448,Equity,CH,Treasury,Treasury Control,PTF_266,CP_7438,Liability,29688264.16
+FR0000002458,Commercial Paper,SG,Structured Products,Operations Signoff,PTF_406,CP_8780,Asset,18421048.7
+US0000002468,Option,HK,FX & Commodities,Product Control FI,PTF_711,CP_8775,Liability,48353699.46
+FR0000002478,Future,FR,Wealth Management,Product Control FI,PTF_697,CP_8871,Asset,26213995.47
+FR0000002488,Option,DE,Wealth Management,Product Control EQ,PTF_132,CP_2800,Asset,951773.69
+DE0000002498,Option,DE,Structured Products,Product Control EQ,PTF_520,CP_9221,Liability,43641521.36
+US0000002508,Equity,SG,Equities,Operations Signoff,PTF_432,CP_8837,Liability,15691061.17
+GB0000002518,Repo,ES,Treasury,Treasury Control,PTF_659,CP_6804,Liability,30505778.62
+GB0000002528,FX Forward,JP,Treasury,Treasury Control,PTF_330,CP_5876,Liability,35246522.34
+JP0000002538,CDS,AU,FX & Commodities,Operations Signoff,PTF_914,CP_5480,Liability,6098095.92
+FR0000002548,Option,ES,Structured Products,Treasury Control,PTF_891,CP_3399,Liability,2108114.01
+US0000002558,CDS,ES,Structured Products,Treasury Control,PTF_865,CP_8849,Asset,10107390.02
+FR0000002568,IRS Swap,ES,Treasury,Treasury Control,PTF_240,CP_2789,Asset,12126689.63
+FR0000002578,FX Forward,NL,Equities,Product Control FI,PTF_202,CP_7771,Liability,35869316.02
+US0000002588,Equity,US,Treasury,Product Control EQ,PTF_516,CP_8793,Liability,32528681.9
+DE0000002598,CDS,JP,Wealth Management,Product Control FI,PTF_887,CP_2465,Asset,26759938.08
+US0000002608,Equity,CA,Equities,Product Control FI,PTF_956,CP_7504,Liability,9319650.04
+DE0000002618,Govt Bond,US,FX & Commodities,Operations Signoff,PTF_717,CP_2758,Liability,14231659.81
+FR0000002628,Commercial Paper,AU,Equities,Operations Signoff,PTF_579,CP_5470,Asset,40441649.84
+DE0000002638,Equity,LU,Structured Products,Treasury Control,PTF_835,CP_4050,Asset,36832211.69
+DE0000002648,Future,NL,Equities,Product Control EQ,PTF_725,CP_7643,Liability,25766456.54
+US0000002658,Option,NL,Fixed Income,Product Control EQ,PTF_243,CP_8822,Liability,46791590.22
+US0000002668,IRS Swap,CA,Equities,Risk Management,PTF_871,CP_5374,Liability,15100782.26
+FR0000002678,Govt Bond,JP,Wealth Management,Treasury Control,PTF_809,CP_4871,Asset,33390966.81
+JP0000002688,IRS Swap,DE,Structured Products,Operations Signoff,PTF_820,CP_6095,Asset,31937372.7
+DE0000002698,CDS,HK,Equities,Product Control EQ,PTF_236,CP_8834,Asset,22751658.75
+FR0000002708,CDS,CA,Wealth Management,Operations Signoff,PTF_582,CP_9806,Asset,38094171.7
+FR0000002718,Corp Bond,SG,Structured Products,Operations Signoff,PTF_820,CP_6927,Asset,45862649.12
+US0000002728,Govt Bond,IT,Treasury,Operations Signoff,PTF_307,CP_9792,Asset,8231035.14
+FR0000002738,Repo,GB,Wealth Management,Product Control EQ,PTF_834,CP_9008,Asset,44944973.14
+JP0000002748,Govt Bond,AU,Equities,Operations Signoff,PTF_525,CP_8484,Asset,27942065.96
+DE0000002758,Govt Bond,CA,FX & Commodities,Product Control FI,PTF_863,CP_4570,Asset,2269263.69
+DE0000002768,Corp Bond,SG,Fixed Income,Product Control FI,PTF_583,CP_1519,Liability,20446302.46
+GB0000002778,Option,CH,Structured Products,Risk Management,PTF_990,CP_7184,Liability,4017098.38
+FR0000002788,Equity,NL,FX & Commodities,Product Control FI,PTF_282,CP_9802,Liability,26444482.76
+GB0000002798,Govt Bond,IE,Fixed Income,Treasury Control,PTF_574,CP_9920,Liability,26599020.76
+GB0000002808,FX Forward,AU,FX & Commodities,Product Control EQ,PTF_382,CP_4088,Asset,1615704.66
+JP0000002818,Future,IE,Fixed Income,Product Control EQ,PTF_311,CP_2102,Asset,29699237.65
+JP0000002828,Future,NL,Wealth Management,Product Control FI,PTF_350,CP_1724,Liability,21950945.76
+FR0000002838,FX Forward,IE,Fixed Income,Product Control EQ,PTF_615,CP_5739,Asset,40790233.91
+FR0000002848,CDS,HK,Treasury,Treasury Control,PTF_342,CP_5944,Asset,49284849.56
+FR0000002858,FX Forward,CA,FX & Commodities,Treasury Control,PTF_162,CP_3869,Liability,27794754.05
+US0000002868,CDS,NL,Wealth Management,Risk Management,PTF_904,CP_9592,Liability,34816938.82
+JP0000002878,Equity,JP,Structured Products,Product Control EQ,PTF_872,CP_9813,Liability,12052204.61
+GB0000002888,IRS Swap,IT,Wealth Management,Product Control EQ,PTF_925,CP_8586,Asset,28121485.55
+JP0000002898,Commercial Paper,SG,Equities,Risk Management,PTF_348,CP_5177,Asset,16516498.37
+US0000002908,Repo,IT,FX & Commodities,Product Control FI,PTF_648,CP_4120,Asset,13426737.08
+FR0000002918,Future,US,Fixed Income,Product Control EQ,PTF_923,CP_4555,Liability,10448409.98
+DE0000002928,IRS Swap,ES,Fixed Income,Product Control EQ,PTF_294,CP_2922,Liability,45722492.63
+FR0000002938,FX Forward,CA,Equities,Operations Signoff,PTF_429,CP_5637,Liability,23315191.79
+DE0000002948,IRS Swap,JP,FX & Commodities,Operations Signoff,PTF_609,CP_8635,Asset,40141817.01
+JP0000002958,CDS,ES,Equities,Treasury Control,PTF_420,CP_7781,Asset,28128423.75
+GB0000002968,Equity,US,FX & Commodities,Operations Signoff,PTF_698,CP_7841,Liability,7624808.45
+DE0000002978,FX Forward,CA,Treasury,Product Control EQ,PTF_611,CP_6530,Liability,38169214.48
+JP0000002988,Repo,AU,Equities,Treasury Control,PTF_273,CP_3293,Liability,9206468.4
+FR0000002998,Govt Bond,SG,Fixed Income,Product Control FI,PTF_937,CP_1794,Asset,20622549.16
+GB0000003008,Corp Bond,LU,Equities,Product Control FI,PTF_323,CP_9285,Liability,18663168.63
+FR0000003018,Future,ES,Structured Products,Risk Management,PTF_116,CP_1108,Liability,597489.15
+FR0000003028,IRS Swap,SG,FX & Commodities,Product Control FI,PTF_614,CP_8054,Asset,5355286.35
+US0000003038,Commercial Paper,DE,Equities,Product Control EQ,PTF_734,CP_9625,Liability,40761643.46
+DE0000003048,Option,GB,FX & Commodities,Risk Management,PTF_570,CP_4984,Asset,15002232.14
+US0000003058,Govt Bond,GB,Structured Products,Risk Management,PTF_486,CP_8798,Asset,31839220.04
+GB0000003068,Corp Bond,AU,Structured Products,Treasury Control,PTF_679,CP_2562,Asset,11492176.02
+FR0000003078,Repo,JP,Fixed Income,Product Control FI,PTF_800,CP_5593,Asset,8971828.39
+DE0000003088,Govt Bond,FR,Treasury,Product Control EQ,PTF_870,CP_7525,Asset,14967348.09
+FR0000003098,FX Forward,HK,Structured Products,Operations Signoff,PTF_439,CP_7288,Asset,39525951.77
+US0000003108,Commercial Paper,LU,FX & Commodities,Product Control FI,PTF_200,CP_8161,Asset,41934539.51
+DE0000003118,Future,IE,Treasury,Operations Signoff,PTF_506,CP_6347,Asset,31707976.76
+JP0000003128,Repo,FR,FX & Commodities,Operations Signoff,PTF_484,CP_8075,Asset,33986344.43
+JP0000003138,Corp Bond,IE,Treasury,Treasury Control,PTF_917,CP_5037,Asset,4106490.29
+GB0000003148,Option,LU,Wealth Management,Product Control EQ,PTF_857,CP_7383,Liability,18038207.9
+US0000003158,Govt Bond,JP,Structured Products,Treasury Control,PTF_879,CP_5419,Asset,6629687.69
+GB0000003168,Option,AU,Treasury,Operations Signoff,PTF_624,CP_7685,Asset,1317963.89
+DE0000003178,Commercial Paper,GB,Treasury,Operations Signoff,PTF_903,CP_6315,Liability,621969.04
+JP0000003188,Option,IE,Fixed Income,Operations Signoff,PTF_348,CP_9537,Asset,34267373.01
+GB0000003198,Equity,JP,FX & Commodities,Treasury Control,PTF_604,CP_3390,Asset,8364534.0
+DE0000003208,Option,JP,Structured Products,Product Control FI,PTF_469,CP_5123,Asset,36046368.13
+JP0000003218,Future,HK,Equities,Risk Management,PTF_209,CP_3219,Liability,343334.63
+JP0000003228,CDS,IT,Treasury,Risk Management,PTF_923,CP_6399,Liability,16740137.51
+FR0000003238,Equity,JP,FX & Commodities,Operations Signoff,PTF_811,CP_4290,Liability,15712593.14
+JP0000003248,CDS,JP,Wealth Management,Risk Management,PTF_689,CP_4971,Liability,18805884.84
+JP0000003258,CDS,GB,Treasury,Product Control EQ,PTF_706,CP_9939,Asset,34087223.09
+FR0000003268,Govt Bond,LU,Structured Products,Product Control EQ,PTF_548,CP_5773,Asset,40949183.57
+JP0000003278,Repo,DE,Wealth Management,Treasury Control,PTF_347,CP_5139,Asset,35763243.38
+JP0000003288,Corp Bond,AU,Treasury,Risk Management,PTF_696,CP_7566,Liability,27184541.94
+DE0000003298,Commercial Paper,HK,Wealth Management,Product Control FI,PTF_211,CP_5067,Liability,8321092.97
+FR0000003308,Govt Bond,HK,Wealth Management,Risk Management,PTF_870,CP_6432,Liability,5301697.86
+US0000003318,IRS Swap,FR,Treasury,Operations Signoff,PTF_671,CP_4621,Liability,18709107.79
+JP0000003328,Future,LU,Treasury,Product Control EQ,PTF_453,CP_1402,Liability,5231945.15
+JP0000003338,Corp Bond,GB,Wealth Management,Product Control EQ,PTF_456,CP_6110,Liability,22769355.1
+GB0000003348,Commercial Paper,AU,FX & Commodities,Risk Management,PTF_199,CP_8178,Liability,15948879.16
+DE0000003358,Govt Bond,IE,Wealth Management,Product Control FI,PTF_123,CP_6620,Asset,33858580.95
+GB0000003368,FX Forward,SG,Equities,Operations Signoff,PTF_263,CP_6422,Liability,47923338.77
+GB0000003378,Option,NL,Equities,Product Control EQ,PTF_755,CP_8080,Liability,1464467.76
+FR0000003388,FX Forward,AU,Treasury,Risk Management,PTF_498,CP_1072,Asset,10293195.05
+US0000003398,Future,GB,Treasury,Product Control EQ,PTF_474,CP_6340,Asset,22880233.36
+DE0000003408,Repo,SG,Wealth Management,Treasury Control,PTF_711,CP_7367,Liability,29352300.7
+DE0000003418,CDS,IT,Structured Products,Operations Signoff,PTF_276,CP_5873,Asset,33607143.54
+DE0000003428,Corp Bond,FR,FX & Commodities,Product Control FI,PTF_287,CP_7116,Asset,25543689.35
+JP0000003438,Future,DE,Treasury,Risk Management,PTF_533,CP_4043,Liability,31776904.59
+GB0000003448,Commercial Paper,DE,Structured Products,Treasury Control,PTF_243,CP_4065,Liability,42100050.78
+FR0000003458,Govt Bond,IT,FX & Commodities,Product Control FI,PTF_596,CP_3236,Asset,40761720.95
+FR0000003468,Commercial Paper,NL,Structured Products,Risk Management,PTF_801,CP_9056,Liability,35508567.93
+JP0000003478,Repo,DE,Fixed Income,Operations Signoff,PTF_131,CP_4613,Liability,1639590.87
+GB0000003488,Commercial Paper,JP,Equities,Risk Management,PTF_679,CP_9115,Asset,28637839.13
+DE0000003498,Commercial Paper,IT,FX & Commodities,Operations Signoff,PTF_942,CP_1681,Liability,27319931.97
+JP0000003508,Corp Bond,LU,Wealth Management,Product Control EQ,PTF_404,CP_1528,Liability,13144447.16
+US0000003518,Repo,IT,Fixed Income,Product Control EQ,PTF_314,CP_6744,Liability,8303250.98
+GB0000003528,FX Forward,IT,Equities,Product Control FI,PTF_683,CP_6747,Liability,29844900.01
+GB0000003538,CDS,LU,FX & Commodities,Treasury Control,PTF_686,CP_5380,Asset,6783767.38
+JP0000003548,Govt Bond,JP,Wealth Management,Product Control EQ,PTF_818,CP_3174,Asset,7316440.95
+DE0000003558,FX Forward,IE,Wealth Management,Risk Management,PTF_601,CP_3329,Liability,31392501.97
+JP0000003568,Repo,GB,Wealth Management,Product Control FI,PTF_512,CP_9447,Liability,34736707.27
+DE0000003578,Repo,AU,FX & Commodities,Operations Signoff,PTF_102,CP_2526,Liability,31743853.07
+DE0000003588,Corp Bond,IE,Treasury,Risk Management,PTF_323,CP_8039,Asset,24738273.8
+DE0000003598,IRS Swap,CH,Treasury,Operations Signoff,PTF_233,CP_8951,Liability,44708262.13
+US0000003608,Govt Bond,GB,Wealth Management,Risk Management,PTF_116,CP_3035,Asset,22067091.01
+US0000003618,Option,FR,Wealth Management,Product Control EQ,PTF_765,CP_5945,Asset,43721796.35
+DE0000003628,Corp Bond,NL,FX & Commodities,Treasury Control,PTF_184,CP_7092,Asset,2594104.82
+DE0000003638,FX Forward,CA,Wealth Management,Product Control FI,PTF_820,CP_2559,Asset,10674991.74
+US0000003648,Equity,HK,Equities,Operations Signoff,PTF_796,CP_8291,Asset,408088.14
+DE0000003658,Corp Bond,IT,Structured Products,Product Control EQ,PTF_589,CP_2160,Asset,19156580.93
+US0000003668,Corp Bond,CH,FX & Commodities,Treasury Control,PTF_240,CP_7270,Asset,32080599.55
+GB0000003678,Corp Bond,SG,Treasury,Product Control FI,PTF_724,CP_3688,Liability,17562630.0
+GB0000003688,Equity,ES,Structured Products,Operations Signoff,PTF_803,CP_8248,Asset,4338968.23
+US0000003698,Equity,IE,Fixed Income,Operations Signoff,PTF_847,CP_7291,Liability,48162619.28
+DE0000003708,Equity,FR,FX & Commodities,Product Control FI,PTF_354,CP_5668,Asset,42395365.76
+DE0000003718,FX Forward,SG,Treasury,Operations Signoff,PTF_293,CP_7418,Liability,32310257.88
+GB0000003728,Repo,CA,Fixed Income,Product Control EQ,PTF_611,CP_2163,Asset,49344192.23
+DE0000003738,Equity,CA,Treasury,Risk Management,PTF_474,CP_9951,Asset,38137483.27
+US0000003748,Govt Bond,HK,Fixed Income,Product Control FI,PTF_368,CP_4534,Asset,46129351.55
+JP0000003758,Commercial Paper,JP,Wealth Management,Operations Signoff,PTF_885,CP_7806,Liability,35092022.88
+US0000003768,Commercial Paper,SG,Treasury,Product Control EQ,PTF_384,CP_2369,Liability,3955682.99
+GB0000003778,Equity,SG,FX & Commodities,Risk Management,PTF_700,CP_2083,Liability,34935300.7
+GB0000003788,Govt Bond,FR,Fixed Income,Risk Management,PTF_218,CP_8428,Asset,15467956.74
+GB0000003798,Corp Bond,US,Wealth Management,Product Control EQ,PTF_818,CP_1185,Asset,24823164.56
+DE0000003808,Commercial Paper,SG,Wealth Management,Treasury Control,PTF_270,CP_7092,Asset,37490070.32
+DE0000003818,Corp Bond,IE,Fixed Income,Treasury Control,PTF_926,CP_8034,Liability,26195091.3
+DE0000003828,Future,NL,Fixed Income,Risk Management,PTF_566,CP_9368,Liability,2776678.35
+FR0000003838,Equity,CH,Equities,Treasury Control,PTF_891,CP_2685,Asset,11424079.14
+FR0000003848,Govt Bond,US,Fixed Income,Product Control EQ,PTF_147,CP_8729,Liability,19152058.82
+GB0000003858,Equity,ES,Fixed Income,Operations Signoff,PTF_922,CP_7870,Asset,16093491.71
+JP0000003868,CDS,JP,Fixed Income,Operations Signoff,PTF_481,CP_2956,Asset,8971320.79
+FR0000003878,Govt Bond,CA,Fixed Income,Risk Management,PTF_986,CP_5625,Liability,16368409.58
+FR0000003888,Repo,US,FX & Commodities,Product Control EQ,PTF_398,CP_5979,Asset,23199014.9
+FR0000003898,Repo,IE,Equities,Operations Signoff,PTF_878,CP_5016,Asset,323862.25
+JP0000003908,Govt Bond,FR,Treasury,Treasury Control,PTF_751,CP_1157,Liability,78094.72
+JP0000003918,IRS Swap,GB,Equities,Operations Signoff,PTF_343,CP_7878,Liability,48059447.12
+GB0000003928,IRS Swap,GB,Fixed Income,Product Control EQ,PTF_965,CP_9515,Liability,35043841.25
+DE0000003938,Repo,LU,Fixed Income,Operations Signoff,PTF_197,CP_9280,Asset,31862597.92
+JP0000003948,Corp Bond,HK,Treasury,Product Control FI,PTF_545,CP_3141,Asset,14587342.82
+DE0000003958,Option,LU,Wealth Management,Treasury Control,PTF_425,CP_8417,Liability,11684393.28
+GB0000003968,Equity,IE,Treasury,Product Control FI,PTF_259,CP_2731,Asset,22481089.55
+DE0000003978,Option,GB,Treasury,Treasury Control,PTF_888,CP_4401,Liability,15418844.37
+DE0000003988,Corp Bond,GB,Equities,Treasury Control,PTF_946,CP_1660,Asset,41797057.93
+DE0000003998,Equity,GB,Wealth Management,Product Control EQ,PTF_464,CP_7492,Asset,33860782.93
+DE0000004008,Equity,US,Structured Products,Risk Management,PTF_669,CP_5093,Asset,23104852.23
+GB0000004018,Corp Bond,US,Fixed Income,Product Control EQ,PTF_233,CP_4246,Liability,18615125.99
+US0000004028,Future,HK,FX & Commodities,Product Control FI,PTF_122,CP_2056,Asset,45125291.62
+JP0000004038,Equity,GB,FX & Commodities,Product Control FI,PTF_143,CP_8552,Asset,8403620.49
+FR0000004048,Option,IT,Wealth Management,Risk Management,PTF_608,CP_1483,Liability,34162229.77
+GB0000004058,CDS,FR,Equities,Treasury Control,PTF_386,CP_8307,Asset,1737298.94
+FR0000004068,Future,FR,Wealth Management,Treasury Control,PTF_610,CP_7750,Liability,3053648.55
+DE0000004078,Option,DE,Structured Products,Product Control EQ,PTF_758,CP_9614,Asset,31539565.67
+FR0000004088,Govt Bond,CA,Wealth Management,Treasury Control,PTF_591,CP_9921,Liability,17204985.82
+FR0000004098,Commercial Paper,CH,Structured Products,Treasury Control,PTF_284,CP_1427,Liability,29857832.06
+US0000004108,IRS Swap,US,Structured Products,Operations Signoff,PTF_466,CP_4813,Asset,5011216.19
+GB0000004118,IRS Swap,SG,Wealth Management,Product Control FI,PTF_882,CP_4594,Liability,17743457.71
+GB0000004128,Equity,FR,Treasury,Treasury Control,PTF_925,CP_6878,Asset,35174126.88
+DE0000004138,Future,HK,Equities,Operations Signoff,PTF_292,CP_9064,Liability,8781960.6
+US0000004148,Corp Bond,US,Equities,Operations Signoff,PTF_324,CP_1326,Liability,39171.4
+FR0000004158,FX Forward,IE,Equities,Treasury Control,PTF_834,CP_3907,Liability,2982500.36
+GB0000004168,Future,LU,Equities,Product Control FI,PTF_966,CP_9622,Liability,48028134.72
+DE0000004178,Option,HK,Fixed Income,Treasury Control,PTF_409,CP_6285,Asset,48793154.27
+JP0000004188,Repo,NL,FX & Commodities,Product Control EQ,PTF_824,CP_6846,Asset,33278255.82
+GB0000004198,Option,JP,Wealth Management,Treasury Control,PTF_230,CP_3911,Asset,47439661.27
+FR0000004208,Option,IT,Treasury,Product Control FI,PTF_286,CP_6213,Asset,31984140.41
+US0000004218,Repo,DE,FX & Commodities,Product Control FI,PTF_343,CP_6682,Liability,8398531.4
+US0000004228,CDS,AU,Fixed Income,Treasury Control,PTF_314,CP_5088,Asset,17527305.69
+US0000004238,Govt Bond,US,Structured Products,Risk Management,PTF_850,CP_7875,Asset,44228177.12
+JP0000004248,Option,CH,Treasury,Risk Management,PTF_203,CP_8855,Asset,8137012.3
+US0000004258,Govt Bond,JP,Fixed Income,Treasury Control,PTF_367,CP_2715,Asset,17093701.02
+JP0000004268,Equity,LU,Fixed Income,Operations Signoff,PTF_195,CP_6536,Liability,35226709.81
+JP0000004278,Equity,HK,Structured Products,Product Control EQ,PTF_154,CP_2659,Liability,10281496.08
+GB0000004288,Option,LU,Treasury,Operations Signoff,PTF_371,CP_5612,Liability,11881226.51
+US0000004298,Option,HK,Treasury,Risk Management,PTF_257,CP_1893,Liability,195759.53
+US0000004308,IRS Swap,IT,Wealth Management,Operations Signoff,PTF_591,CP_4271,Asset,1291655.96
+GB0000004318,IRS Swap,GB,Structured Products,Product Control FI,PTF_415,CP_7512,Liability,24457395.12
+DE0000004328,Corp Bond,NL,Treasury,Risk Management,PTF_289,CP_7078,Liability,18473236.24
+JP0000004338,Govt Bond,JP,Structured Products,Risk Management,PTF_369,CP_4706,Liability,28214508.16
+GB0000004348,Corp Bond,GB,Wealth Management,Treasury Control,PTF_927,CP_9871,Liability,48535423.33
+FR0000004358,FX Forward,SG,Fixed Income,Risk Management,PTF_938,CP_9561,Liability,48281557.07
+JP0000004368,Future,ES,Equities,Risk Management,PTF_406,CP_2293,Liability,45139346.18
+US0000004378,Commercial Paper,HK,Treasury,Operations Signoff,PTF_793,CP_3415,Asset,47462994.55
+JP0000004388,Equity,DE,Equities,Product Control EQ,PTF_229,CP_1699,Liability,3923034.26
+JP0000004398,FX Forward,IT,Wealth Management,Product Control EQ,PTF_954,CP_5225,Liability,45540670.26
+US0000004408,Corp Bond,CA,Treasury,Risk Management,PTF_665,CP_6343,Liability,25986810.44
+US0000004418,Future,HK,Treasury,Risk Management,PTF_215,CP_7790,Asset,7414246.07
+FR0000004428,Future,IE,Fixed Income,Product Control FI,PTF_676,CP_2654,Liability,43374426.01
+DE0000004438,Option,JP,Structured Products,Risk Management,PTF_685,CP_8750,Asset,8614125.41
+JP0000004448,Equity,HK,Treasury,Risk Management,PTF_139,CP_7484,Liability,34527235.14
+US0000004458,Repo,ES,FX & Commodities,Treasury Control,PTF_120,CP_6535,Liability,15550910.15
+JP0000004468,Corp Bond,IT,Equities,Product Control EQ,PTF_407,CP_8259,Liability,13474651.95
+JP0000004478,Future,NL,Fixed Income,Product Control EQ,PTF_552,CP_4463,Liability,37048535.22
+FR0000004488,CDS,IT,Fixed Income,Operations Signoff,PTF_910,CP_3604,Asset,15559599.05
+FR0000004498,Option,DE,Treasury,Operations Signoff,PTF_129,CP_3846,Asset,43759651.9
+GB0000004508,Govt Bond,FR,Fixed Income,Risk Management,PTF_151,CP_6904,Asset,13702505.04
+JP0000004518,Commercial Paper,CA,Wealth Management,Product Control FI,PTF_797,CP_1500,Asset,18626475.74
+FR0000004528,Repo,DE,Structured Products,Operations Signoff,PTF_664,CP_6730,Liability,8179863.16
+DE0000004538,Corp Bond,JP,Fixed Income,Risk Management,PTF_150,CP_3669,Asset,42856273.82
+GB0000004548,FX Forward,JP,Wealth Management,Risk Management,PTF_625,CP_1328,Asset,23707489.84
+GB0000004558,Equity,HK,Fixed Income,Product Control EQ,PTF_358,CP_6004,Liability,21193221.0
+JP0000004568,CDS,AU,FX & Commodities,Product Control EQ,PTF_577,CP_5950,Liability,29226435.36
+US0000004578,Commercial Paper,NL,FX & Commodities,Operations Signoff,PTF_762,CP_5631,Liability,34222234.73
+JP0000004588,Corp Bond,CH,FX & Commodities,Treasury Control,PTF_982,CP_5536,Liability,32807699.66
+DE0000004598,FX Forward,DE,Treasury,Product Control EQ,PTF_158,CP_7620,Liability,34039383.74
+US0000004608,Repo,JP,FX & Commodities,Risk Management,PTF_514,CP_7361,Asset,29153270.0
+FR0000004618,FX Forward,CH,Wealth Management,Product Control EQ,PTF_802,CP_9759,Liability,45326792.64
+DE0000004628,Commercial Paper,JP,Equities,Operations Signoff,PTF_285,CP_5813,Asset,23541689.73
+DE0000004638,Commercial Paper,IE,Equities,Treasury Control,PTF_770,CP_2463,Asset,17767393.39
+DE0000004648,Option,IE,FX & Commodities,Treasury Control,PTF_366,CP_5817,Liability,42561438.34
+JP0000004658,Govt Bond,IT,Wealth Management,Operations Signoff,PTF_694,CP_2166,Liability,44471855.94
+FR0000004668,Corp Bond,IT,Wealth Management,Risk Management,PTF_642,CP_5888,Liability,2707828.22
+GB0000004678,Equity,FR,FX & Commodities,Risk Management,PTF_683,CP_8496,Asset,15822590.97
+GB0000004688,Corp Bond,AU,FX & Commodities,Product Control EQ,PTF_420,CP_1950,Asset,22605401.16
+GB0000004698,Equity,HK,Equities,Risk Management,PTF_904,CP_2442,Asset,30725914.54
+JP0000004708,Option,CA,Structured Products,Risk Management,PTF_104,CP_1618,Asset,36534300.23
+US0000004718,CDS,IE,Treasury,Product Control EQ,PTF_118,CP_1067,Asset,11317154.24
+DE0000004728,IRS Swap,DE,Fixed Income,Risk Management,PTF_615,CP_6015,Asset,3269024.69
+US0000004738,IRS Swap,JP,Structured Products,Operations Signoff,PTF_710,CP_9587,Liability,21686093.18
+GB0000004748,CDS,ES,Structured Products,Treasury Control,PTF_868,CP_4087,Asset,47404477.26
+JP0000004758,Govt Bond,FR,Equities,Product Control EQ,PTF_316,CP_1359,Asset,6162483.28
+US0000004768,Option,ES,Wealth Management,Treasury Control,PTF_889,CP_9761,Asset,29698233.77
+US0000004778,Corp Bond,NL,Fixed Income,Product Control FI,PTF_806,CP_2897,Liability,22218492.88
+US0000004788,Commercial Paper,JP,Structured Products,Product Control EQ,PTF_310,CP_1152,Liability,21046468.46
+US0000004798,Commercial Paper,JP,Treasury,Operations Signoff,PTF_817,CP_3247,Liability,41533482.76
+US0000004808,Commercial Paper,LU,Treasury,Product Control FI,PTF_389,CP_2867,Asset,24889464.46
+FR0000004818,FX Forward,IE,FX & Commodities,Operations Signoff,PTF_306,CP_6864,Liability,14771083.29
+US0000004828,Commercial Paper,AU,Equities,Risk Management,PTF_438,CP_4842,Asset,642406.32
+US0000004838,Corp Bond,IT,Treasury,Risk Management,PTF_252,CP_2475,Asset,36179563.03
+US0000004848,IRS Swap,NL,Equities,Risk Management,PTF_403,CP_5327,Liability,2508759.39
+GB0000004858,Govt Bond,IT,FX & Commodities,Treasury Control,PTF_920,CP_6123,Liability,36928317.09
+US0000004868,Govt Bond,US,Equities,Product Control EQ,PTF_436,CP_6857,Liability,47754682.38
+DE0000004878,Corp Bond,CH,FX & Commodities,Product Control EQ,PTF_216,CP_7566,Liability,48115684.96
+DE0000004888,Option,LU,Structured Products,Risk Management,PTF_764,CP_3732,Asset,6629916.25
+US0000004898,Equity,GB,Structured Products,Operations Signoff,PTF_594,CP_8178,Asset,30568101.3
+DE0000004908,Future,US,Wealth Management,Product Control EQ,PTF_594,CP_8997,Asset,44380258.43
+JP0000004918,Govt Bond,GB,FX & Commodities,Treasury Control,PTF_112,CP_9598,Asset,48894888.4
+DE0000004928,Commercial Paper,SG,Wealth Management,Operations Signoff,PTF_197,CP_8091,Asset,24099074.22
+JP0000004938,Equity,IT,Treasury,Operations Signoff,PTF_155,CP_1190,Asset,25280850.76
+JP0000004948,Repo,IT,Equities,Product Control FI,PTF_869,CP_9055,Liability,12048386.38
+DE0000004958,Govt Bond,SG,Equities,Operations Signoff,PTF_758,CP_7203,Liability,40856079.77
+US0000004968,Repo,AU,Treasury,Risk Management,PTF_190,CP_9166,Liability,15806496.06
+JP0000004978,Govt Bond,GB,Structured Products,Risk Management,PTF_136,CP_9996,Asset,41296308.38
+FR0000004988,Future,NL,FX & Commodities,Operations Signoff,PTF_675,CP_4389,Liability,47518004.72
+DE0000004998,Govt Bond,IT,Equities,Risk Management,PTF_439,CP_8751,Liability,35797095.45
+US0000005008,Corp Bond,IE,Wealth Management,Product Control EQ,PTF_102,CP_6592,Liability,41495044.86
+DE0000005018,Commercial Paper,SG,FX & Commodities,Product Control FI,PTF_146,CP_3689,Liability,7026757.12
+JP0000005028,Corp Bond,JP,Treasury,Product Control EQ,PTF_292,CP_2978,Liability,10783397.27
+GB0000005038,CDS,GB,Structured Products,Product Control FI,PTF_748,CP_3018,Liability,22872106.91
+FR0000005048,Commercial Paper,DE,Structured Products,Product Control FI,PTF_643,CP_1795,Liability,41941611.45
+JP0000005058,Commercial Paper,IE,Equities,Operations Signoff,PTF_277,CP_3103,Asset,19373341.93
+FR0000005068,Future,ES,FX & Commodities,Operations Signoff,PTF_493,CP_7859,Asset,13683426.02
+DE0000005078,IRS Swap,AU,Equities,Product Control EQ,PTF_522,CP_9393,Liability,42154506.19
+FR0000005088,CDS,LU,Wealth Management,Operations Signoff,PTF_747,CP_4560,Asset,10489586.25
+DE0000005098,CDS,ES,Wealth Management,Product Control EQ,PTF_827,CP_3913,Liability,35519084.59
+DE0000005108,Commercial Paper,AU,Treasury,Operations Signoff,PTF_783,CP_7839,Liability,43874474.36
+JP0000005118,Govt Bond,SG,Fixed Income,Product Control FI,PTF_490,CP_3381,Asset,33514357.67
+GB0000005128,IRS Swap,IE,Equities,Treasury Control,PTF_799,CP_5105,Asset,41969893.81
+DE0000005138,FX Forward,IE,Treasury,Product Control FI,PTF_467,CP_8415,Asset,30807361.14
+FR0000005148,FX Forward,LU,Wealth Management,Operations Signoff,PTF_498,CP_4892,Liability,34648339.08
+US0000005158,Option,CA,Structured Products,Treasury Control,PTF_665,CP_1881,Asset,37184779.96
+GB0000005168,Future,IT,Structured Products,Product Control EQ,PTF_748,CP_7025,Asset,38808456.52
+GB0000005178,IRS Swap,AU,Equities,Product Control FI,PTF_291,CP_3847,Asset,18863025.36
+JP0000005188,IRS Swap,SG,FX & Commodities,Product Control EQ,PTF_264,CP_5178,Asset,16531486.62
+GB0000005198,Govt Bond,DE,FX & Commodities,Operations Signoff,PTF_152,CP_5934,Liability,39496459.58
+FR0000005208,CDS,GB,Wealth Management,Treasury Control,PTF_638,CP_4603,Asset,26032711.34
+FR0000005218,Equity,CA,Treasury,Operations Signoff,PTF_513,CP_2506,Liability,11063798.06
+GB0000005228,CDS,CH,FX & Commodities,Treasury Control,PTF_323,CP_9691,Liability,49831570.97
+US0000005238,Corp Bond,NL,FX & Commodities,Risk Management,PTF_346,CP_4994,Asset,34129155.28
+DE0000005248,Option,ES,Fixed Income,Risk Management,PTF_362,CP_9851,Liability,1240162.96
+FR0000005258,CDS,SG,Treasury,Risk Management,PTF_598,CP_1718,Liability,44914589.04
+GB0000005268,CDS,SG,Fixed Income,Product Control FI,PTF_271,CP_9814,Asset,31348519.13
+GB0000005278,FX Forward,IT,Wealth Management,Risk Management,PTF_955,CP_2702,Asset,26890021.93
+JP0000005288,Corp Bond,LU,Wealth Management,Product Control EQ,PTF_124,CP_8523,Liability,1899126.31
+US0000005298,Govt Bond,DE,FX & Commodities,Operations Signoff,PTF_172,CP_4729,Liability,20384600.76
+JP0000005308,Option,CA,FX & Commodities,Product Control FI,PTF_498,CP_2938,Asset,32072930.21
+FR0000005318,Corp Bond,IE,Wealth Management,Operations Signoff,PTF_146,CP_2189,Liability,46402747.27
+US0000005328,IRS Swap,IE,Wealth Management,Treasury Control,PTF_721,CP_2417,Liability,38264885.68
+JP0000005338,Option,CA,Wealth Management,Product Control FI,PTF_585,CP_3561,Asset,6823391.11
+JP0000005348,Commercial Paper,JP,Wealth Management,Product Control EQ,PTF_405,CP_7113,Asset,27678441.77
+FR0000005358,Equity,GB,Fixed Income,Product Control FI,PTF_686,CP_7456,Asset,15238034.16
+DE0000005368,FX Forward,CA,Wealth Management,Operations Signoff,PTF_245,CP_3637,Asset,11043294.53
+DE0000005378,FX Forward,GB,Equities,Operations Signoff,PTF_972,CP_1891,Liability,32235502.32
+US0000005388,IRS Swap,NL,Fixed Income,Treasury Control,PTF_200,CP_4234,Liability,47577237.62
+DE0000005398,Equity,NL,Wealth Management,Product Control EQ,PTF_202,CP_5671,Asset,45006428.95
+DE0000005408,Repo,AU,FX & Commodities,Operations Signoff,PTF_775,CP_6008,Asset,28279772.64
+DE0000005418,CDS,CA,Equities,Product Control FI,PTF_420,CP_5033,Asset,35611395.37
+JP0000005428,IRS Swap,IT,FX & Commodities,Product Control EQ,PTF_795,CP_6432,Liability,23145104.56
+DE0000005438,IRS Swap,AU,Treasury,Product Control FI,PTF_279,CP_2343,Liability,42936389.2
+GB0000005448,Commercial Paper,FR,FX & Commodities,Product Control FI,PTF_844,CP_2235,Asset,42480115.71
+US0000005458,Future,HK,Structured Products,Operations Signoff,PTF_317,CP_1600,Liability,27175748.85
+FR0000005468,Repo,NL,Equities,Treasury Control,PTF_501,CP_4658,Liability,6698393.57
+FR0000005478,Commercial Paper,GB,Structured Products,Treasury Control,PTF_614,CP_1173,Asset,42399852.1
+FR0000005488,Equity,IE,Treasury,Product Control EQ,PTF_556,CP_3608,Asset,28320030.94
+FR0000005498,Equity,LU,Wealth Management,Risk Management,PTF_467,CP_1662,Asset,38074811.53
+GB0000005508,Corp Bond,JP,FX & Commodities,Product Control EQ,PTF_143,CP_4387,Liability,19407715.03
+JP0000005518,Govt Bond,US,Wealth Management,Treasury Control,PTF_205,CP_9542,Liability,41744438.95
+DE0000005528,Future,SG,Treasury,Product Control EQ,PTF_485,CP_7201,Liability,29386002.84
+US0000005538,Commercial Paper,JP,Structured Products,Product Control EQ,PTF_628,CP_7649,Liability,40862752.08
+DE0000005548,Repo,IE,Structured Products,Operations Signoff,PTF_106,CP_9222,Asset,21997735.54
+GB0000005558,Corp Bond,SG,Wealth Management,Treasury Control,PTF_316,CP_3461,Asset,7872080.85
+FR0000005568,Corp Bond,NL,Equities,Risk Management,PTF_930,CP_6410,Asset,24078424.89
+JP0000005578,Repo,FR,Treasury,Product Control EQ,PTF_762,CP_7732,Asset,12187297.02
+GB0000005588,Future,HK,Equities,Product Control EQ,PTF_744,CP_9399,Asset,44540429.59
+GB0000005598,Govt Bond,DE,FX & Commodities,Product Control EQ,PTF_629,CP_7642,Asset,43926056.6
+DE0000005608,Corp Bond,FR,Structured Products,Operations Signoff,PTF_582,CP_8891,Asset,10972093.92
+JP0000005618,Future,DE,Treasury,Product Control EQ,PTF_738,CP_9369,Liability,8390246.47
+DE0000005628,Repo,HK,Treasury,Product Control FI,PTF_335,CP_7196,Liability,6614998.86
+US0000005638,FX Forward,SG,Treasury,Risk Management,PTF_946,CP_3450,Asset,8875222.1
+FR0000005648,Future,US,Treasury,Operations Signoff,PTF_870,CP_2925,Asset,24114635.55
+GB0000005658,Future,SG,Fixed Income,Risk Management,PTF_634,CP_7892,Liability,43741840.92
+FR0000005668,Option,FR,Structured Products,Risk Management,PTF_458,CP_2600,Liability,6698485.87
+JP0000005678,FX Forward,ES,Fixed Income,Treasury Control,PTF_712,CP_9908,Liability,12893959.79
+US0000005688,Govt Bond,HK,Treasury,Product Control FI,PTF_632,CP_1117,Liability,32729033.31
+DE0000005698,Option,CH,Fixed Income,Product Control EQ,PTF_536,CP_5155,Liability,42749571.43
+JP0000005708,Future,CH,Treasury,Treasury Control,PTF_796,CP_7511,Asset,20664341.77
+FR0000005718,Repo,DE,FX & Commodities,Operations Signoff,PTF_668,CP_8925,Liability,49425470.66
+FR0000005728,CDS,IE,Wealth Management,Risk Management,PTF_853,CP_3262,Asset,37391970.68
+JP0000005738,Equity,GB,Equities,Operations Signoff,PTF_510,CP_6544,Asset,8041096.77
+US0000005748,Corp Bond,IT,Equities,Risk Management,PTF_714,CP_8133,Asset,3208702.42
+GB0000005758,CDS,GB,Treasury,Product Control FI,PTF_841,CP_7296,Liability,30700209.71
+FR0000005768,IRS Swap,LU,Treasury,Product Control FI,PTF_892,CP_3871,Liability,21951407.57
+GB0000005778,Commercial Paper,JP,Equities,Product Control FI,PTF_902,CP_9364,Asset,30761423.34
+US0000005788,CDS,FR,Wealth Management,Product Control FI,PTF_261,CP_2422,Liability,38984745.58
+DE0000005798,Option,CA,Treasury,Product Control EQ,PTF_630,CP_1251,Asset,45959275.17
+FR0000005808,IRS Swap,LU,Treasury,Operations Signoff,PTF_456,CP_6693,Liability,11318644.17
+GB0000005818,Repo,ES,Structured Products,Operations Signoff,PTF_104,CP_5277,Asset,20359695.63
+US0000005828,Commercial Paper,GB,Treasury,Treasury Control,PTF_448,CP_2917,Liability,43806271.75
+FR0000005838,IRS Swap,LU,Structured Products,Risk Management,PTF_676,CP_8923,Asset,37874876.89
+JP0000005848,Repo,ES,Treasury,Product Control FI,PTF_593,CP_2904,Liability,3382375.26
+GB0000005858,FX Forward,IE,FX & Commodities,Risk Management,PTF_461,CP_9462,Asset,35042423.52
+DE0000005868,FX Forward,JP,Fixed Income,Risk Management,PTF_789,CP_6603,Asset,27729802.44
+GB0000005878,Repo,CH,FX & Commodities,Product Control EQ,PTF_687,CP_5408,Asset,47356169.86
+GB0000005888,Repo,LU,Equities,Product Control EQ,PTF_853,CP_4965,Liability,10342897.72
+GB0000005898,FX Forward,IT,Treasury,Treasury Control,PTF_259,CP_2747,Asset,46009805.54
+JP0000005908,Future,US,Treasury,Product Control FI,PTF_968,CP_8901,Liability,31035270.4
+JP0000005918,Future,IT,FX & Commodities,Risk Management,PTF_287,CP_9374,Liability,19896985.5
+FR0000005928,Equity,US,Treasury,Risk Management,PTF_589,CP_9859,Asset,25126248.23
+JP0000005938,Equity,AU,Fixed Income,Operations Signoff,PTF_571,CP_6171,Asset,595939.83
+GB0000005948,Option,HK,Fixed Income,Treasury Control,PTF_470,CP_5254,Asset,27430427.2
+GB0000005958,IRS Swap,AU,Treasury,Treasury Control,PTF_474,CP_4013,Liability,21200024.31
+JP0000005968,CDS,CH,Structured Products,Treasury Control,PTF_561,CP_3947,Asset,48963726.23
+GB0000005978,Corp Bond,LU,FX & Commodities,Product Control EQ,PTF_668,CP_8081,Liability,9807180.39
+GB0000005988,Repo,IE,Fixed Income,Product Control EQ,PTF_531,CP_9185,Asset,49778110.71
+FR0000005998,Commercial Paper,LU,FX & Commodities,Risk Management,PTF_407,CP_5111,Asset,19923103.08
+GB0000006008,Govt Bond,FR,FX & Commodities,Risk Management,PTF_959,CP_2577,Liability,37230938.06
+DE0000006018,CDS,CH,Treasury,Operations Signoff,PTF_929,CP_5222,Liability,996667.5
+US0000006028,CDS,IT,Wealth Management,Operations Signoff,PTF_303,CP_9821,Asset,48968759.79
+DE0000006038,CDS,CH,Wealth Management,Operations Signoff,PTF_599,CP_8322,Asset,19056644.57
+DE0000006048,Repo,NL,Equities,Product Control EQ,PTF_755,CP_6527,Liability,31565514.05
+FR0000006058,Option,IT,Fixed Income,Product Control FI,PTF_265,CP_6629,Asset,15677535.76
+DE0000006068,IRS Swap,HK,Wealth Management,Risk Management,PTF_377,CP_8289,Liability,37396035.45
+FR0000006078,Repo,CA,Equities,Product Control EQ,PTF_974,CP_1378,Asset,36389981.96
+DE0000006088,Corp Bond,FR,Equities,Risk Management,PTF_205,CP_2565,Asset,46839999.12
+JP0000006098,Commercial Paper,US,Fixed Income,Risk Management,PTF_636,CP_2363,Asset,13126300.95
+GB0000006108,Corp Bond,NL,Structured Products,Treasury Control,PTF_334,CP_5053,Liability,22160805.54
+GB0000006118,Equity,SG,Equities,Product Control FI,PTF_135,CP_6846,Liability,43212735.88
+JP0000006128,Commercial Paper,ES,FX & Commodities,Operations Signoff,PTF_555,CP_3213,Asset,29543592.17
+JP0000006138,Future,CA,Treasury,Operations Signoff,PTF_417,CP_6688,Liability,26985707.77
+US0000006148,Repo,JP,FX & Commodities,Risk Management,PTF_366,CP_3551,Liability,532738.15
+FR0000006158,Equity,CH,FX & Commodities,Risk Management,PTF_647,CP_1136,Liability,47348140.81
+JP0000006168,IRS Swap,US,Structured Products,Treasury Control,PTF_711,CP_4788,Asset,27412868.73
+GB0000006178,Option,ES,Treasury,Risk Management,PTF_504,CP_5094,Asset,35748324.46
+JP0000006188,Option,FR,FX & Commodities,Product Control FI,PTF_532,CP_4924,Liability,14237419.35
+FR0000006198,IRS Swap,CA,Equities,Product Control FI,PTF_286,CP_3238,Liability,5522265.74
+JP0000006208,Future,AU,FX & Commodities,Operations Signoff,PTF_603,CP_4076,Liability,974672.89
+US0000006218,Commercial Paper,US,Equities,Product Control FI,PTF_388,CP_5410,Asset,35761221.13
+US0000006228,FX Forward,GB,Equities,Product Control FI,PTF_605,CP_4558,Liability,21015050.14
+JP0000006238,CDS,AU,Wealth Management,Product Control FI,PTF_438,CP_2314,Asset,2806637.03
+JP0000006248,Corp Bond,SG,Structured Products,Product Control EQ,PTF_296,CP_5097,Liability,41413461.11
+US0000006258,FX Forward,CA,Structured Products,Product Control EQ,PTF_855,CP_1549,Asset,23044427.59
+US0000006268,Commercial Paper,NL,Equities,Risk Management,PTF_498,CP_6113,Liability,7934778.76
+US0000006278,Commercial Paper,SG,Fixed Income,Treasury Control,PTF_592,CP_5895,Asset,18024530.67
+US0000006288,FX Forward,GB,Equities,Risk Management,PTF_432,CP_1246,Asset,39720547.92
+FR0000006298,Corp Bond,CA,Equities,Product Control FI,PTF_143,CP_8786,Asset,18573076.17
+US0000006308,FX Forward,DE,Structured Products,Product Control FI,PTF_802,CP_6544,Asset,2993457.7
+GB0000006318,Commercial Paper,IE,Fixed Income,Product Control EQ,PTF_599,CP_4812,Liability,49083877.17
+DE0000006328,Repo,LU,Equities,Product Control FI,PTF_805,CP_7189,Liability,36221335.9
+DE0000006338,Govt Bond,AU,Wealth Management,Risk Management,PTF_672,CP_5828,Liability,9492842.93
+GB0000006348,Commercial Paper,CH,FX & Commodities,Risk Management,PTF_381,CP_3627,Asset,26559215.83
+JP0000006358,IRS Swap,IT,FX & Commodities,Operations Signoff,PTF_475,CP_8439,Asset,38797015.78
+FR0000006368,Option,LU,Equities,Product Control FI,PTF_734,CP_6965,Asset,16038101.24
+US0000006378,Commercial Paper,IT,Structured Products,Product Control EQ,PTF_636,CP_9151,Asset,30653896.92
+DE0000006388,Option,NL,FX & Commodities,Product Control FI,PTF_198,CP_9572,Asset,2193644.29
+GB0000006398,Equity,IT,Fixed Income,Product Control EQ,PTF_209,CP_8952,Asset,4942185.56
+FR0000006408,Option,NL,Structured Products,Operations Signoff,PTF_738,CP_5193,Asset,18320869.23
+FR0000006418,Corp Bond,US,Equities,Risk Management,PTF_952,CP_2310,Liability,40051992.35
+US0000006428,CDS,SG,Wealth Management,Risk Management,PTF_941,CP_7046,Asset,41183030.1
+DE0000006438,Commercial Paper,US,Wealth Management,Product Control FI,PTF_954,CP_5979,Asset,47230451.08
+FR0000006448,Corp Bond,GB,Wealth Management,Product Control EQ,PTF_644,CP_7313,Asset,9660006.8
+GB0000006458,Future,NL,Equities,Operations Signoff,PTF_867,CP_7802,Asset,38315339.58
+FR0000006468,CDS,NL,Structured Products,Risk Management,PTF_206,CP_3733,Asset,27500523.5
+FR0000006478,CDS,NL,Equities,Operations Signoff,PTF_714,CP_8258,Liability,45124736.11
+FR0000006488,CDS,IT,FX & Commodities,Risk Management,PTF_882,CP_8054,Liability,30422626.45
+FR0000006498,Commercial Paper,FR,Structured Products,Operations Signoff,PTF_862,CP_5162,Liability,48082780.52
+JP0000006508,Option,US,Wealth Management,Product Control FI,PTF_391,CP_1267,Asset,49670633.42
+DE0000006518,Govt Bond,JP,Equities,Product Control EQ,PTF_976,CP_6159,Asset,38577295.98
+DE0000006528,Commercial Paper,SG,Treasury,Operations Signoff,PTF_685,CP_3534,Asset,1891626.32
+DE0000006538,Equity,DE,FX & Commodities,Treasury Control,PTF_696,CP_5093,Asset,12815910.7
+DE0000006548,Corp Bond,HK,Structured Products,Operations Signoff,PTF_322,CP_2264,Liability,39646245.19
+GB0000006558,Repo,IT,Wealth Management,Operations Signoff,PTF_939,CP_2562,Liability,1873392.95
+FR0000006568,Option,GB,Fixed Income,Treasury Control,PTF_456,CP_8115,Liability,46512652.97
+US0000006578,FX Forward,LU,Wealth Management,Operations Signoff,PTF_111,CP_7266,Asset,15242645.73
+US0000006588,CDS,SG,Treasury,Product Control EQ,PTF_434,CP_9231,Asset,7664108.14
+JP0000006598,Repo,IE,Treasury,Operations Signoff,PTF_616,CP_2475,Asset,21599623.83
+JP0000006608,Equity,DE,FX & Commodities,Product Control FI,PTF_587,CP_1807,Liability,13131586.04
+JP0000006618,Commercial Paper,CA,Wealth Management,Product Control EQ,PTF_880,CP_3209,Liability,27967012.38
+JP0000006628,Option,NL,Treasury,Product Control EQ,PTF_674,CP_9589,Asset,12119543.01
+DE0000006638,Option,CH,Wealth Management,Operations Signoff,PTF_191,CP_2843,Liability,21179912.42
+DE0000006648,FX Forward,CH,FX & Commodities,Operations Signoff,PTF_771,CP_1396,Liability,8466916.92
+DE0000006658,Future,IT,Structured Products,Operations Signoff,PTF_249,CP_8216,Asset,46211039.28
+GB0000006668,FX Forward,NL,FX & Commodities,Product Control EQ,PTF_875,CP_2405,Asset,36980383.59
+GB0000006678,Future,ES,Equities,Treasury Control,PTF_114,CP_6624,Asset,15259376.91
+JP0000006688,Govt Bond,CH,Equities,Operations Signoff,PTF_316,CP_4339,Liability,27442258.74
+FR0000006698,Equity,LU,Wealth Management,Product Control FI,PTF_485,CP_9631,Asset,12776539.95
+US0000006708,IRS Swap,FR,Wealth Management,Operations Signoff,PTF_377,CP_1869,Liability,32739619.8
+US0000006718,Corp Bond,CA,Wealth Management,Treasury Control,PTF_778,CP_6901,Asset,958820.81
+JP0000006728,FX Forward,CA,Treasury,Product Control FI,PTF_423,CP_8940,Asset,9324937.28
+FR0000006738,Repo,SG,Wealth Management,Product Control FI,PTF_140,CP_5053,Liability,16681813.88
+JP0000006748,Equity,US,FX & Commodities,Treasury Control,PTF_463,CP_5953,Asset,49799740.59
+FR0000006758,IRS Swap,IE,Fixed Income,Treasury Control,PTF_999,CP_7343,Asset,47207114.23
+DE0000006768,FX Forward,DE,FX & Commodities,Risk Management,PTF_772,CP_3248,Asset,36495833.75
+FR0000006778,Future,IT,Wealth Management,Product Control EQ,PTF_527,CP_4938,Asset,21326117.53
+DE0000006788,Future,CH,Structured Products,Operations Signoff,PTF_234,CP_4387,Asset,29053629.88
+GB0000006798,Equity,JP,Wealth Management,Operations Signoff,PTF_238,CP_8046,Asset,32813306.49
+FR0000006808,Equity,CH,Fixed Income,Operations Signoff,PTF_645,CP_2939,Asset,15883291.47
+GB0000006818,Govt Bond,IE,FX & Commodities,Risk Management,PTF_521,CP_5970,Liability,37281758.45
+DE0000006828,Equity,IE,Equities,Product Control FI,PTF_234,CP_4026,Asset,38123561.95
+FR0000006838,Future,JP,Treasury,Operations Signoff,PTF_727,CP_4783,Asset,11549464.32
+US0000006848,CDS,GB,Wealth Management,Risk Management,PTF_237,CP_9230,Liability,35602396.3
+DE0000006858,Equity,IT,Structured Products,Risk Management,PTF_585,CP_3253,Asset,9667025.17
+US0000006868,Option,IE,Fixed Income,Treasury Control,PTF_522,CP_4646,Asset,37890040.6
+US0000006878,Equity,ES,Structured Products,Operations Signoff,PTF_601,CP_6323,Liability,44379907.86
+JP0000006888,Option,IE,Fixed Income,Operations Signoff,PTF_852,CP_7232,Liability,19710564.68
+FR0000006898,Future,SG,Treasury,Product Control FI,PTF_633,CP_2791,Liability,22847736.7
+US0000006908,FX Forward,SG,Treasury,Risk Management,PTF_852,CP_1643,Liability,25808753.52
+US0000006918,FX Forward,JP,Structured Products,Risk Management,PTF_411,CP_5684,Liability,8328497.65
+DE0000006928,Future,ES,Fixed Income,Operations Signoff,PTF_245,CP_8595,Liability,4526588.18
+FR0000006938,Corp Bond,DE,Treasury,Operations Signoff,PTF_238,CP_7440,Liability,16176429.32
+US0000006948,Equity,AU,Treasury,Product Control EQ,PTF_565,CP_2477,Liability,16207118.63
+GB0000006958,Corp Bond,GB,Fixed Income,Risk Management,PTF_749,CP_6946,Asset,26193246.22
+JP0000006968,Commercial Paper,HK,Equities,Risk Management,PTF_663,CP_7235,Asset,38414174.89
+DE0000006978,Future,IT,Wealth Management,Product Control EQ,PTF_266,CP_3369,Asset,38458994.04
+US0000006988,Option,JP,FX & Commodities,Risk Management,PTF_395,CP_3960,Asset,44927602.96
+GB0000006998,Govt Bond,HK,FX & Commodities,Product Control FI,PTF_569,CP_9153,Liability,27177340.47
+US0000007008,Future,ES,Structured Products,Product Control EQ,PTF_322,CP_8794,Liability,20510517.53
+US0000007018,Future,HK,Fixed Income,Product Control EQ,PTF_660,CP_5556,Asset,2450695.4
+GB0000007028,Govt Bond,NL,FX & Commodities,Product Control FI,PTF_248,CP_1531,Liability,16558898.83
+US0000007038,Govt Bond,GB,Structured Products,Product Control EQ,PTF_265,CP_5659,Asset,48314831.73
+FR0000007048,CDS,ES,Fixed Income,Product Control FI,PTF_886,CP_5903,Liability,18431628.43
+JP0000007058,Corp Bond,IE,Structured Products,Operations Signoff,PTF_166,CP_5797,Liability,6731616.72
+DE0000007068,CDS,SG,Structured Products,Operations Signoff,PTF_314,CP_4425,Asset,5469565.21
+FR0000007078,Corp Bond,AU,Wealth Management,Operations Signoff,PTF_907,CP_5705,Liability,30444186.12
+DE0000007088,IRS Swap,SG,Treasury,Operations Signoff,PTF_462,CP_3125,Liability,25987691.48
+JP0000007098,Repo,IE,Equities,Operations Signoff,PTF_338,CP_5759,Asset,84037.96
+US0000007108,Repo,NL,Fixed Income,Product Control EQ,PTF_918,CP_7793,Liability,2279382.02
+DE0000007118,Commercial Paper,IE,Wealth Management,Product Control EQ,PTF_111,CP_4296,Liability,12724604.02
+US0000007128,IRS Swap,JP,Treasury,Operations Signoff,PTF_431,CP_1100,Asset,34293360.25
+DE0000007138,Option,LU,Treasury,Operations Signoff,PTF_129,CP_3877,Asset,16529089.03
+DE0000007148,Repo,ES,Structured Products,Product Control FI,PTF_761,CP_3224,Liability,7773537.5
+JP0000007158,Commercial Paper,ES,FX & Commodities,Risk Management,PTF_902,CP_7782,Asset,41756111.27
+DE0000007168,Future,LU,Wealth Management,Treasury Control,PTF_668,CP_9779,Asset,10417082.2
+DE0000007178,CDS,GB,Equities,Treasury Control,PTF_960,CP_1510,Liability,49181020.35
+FR0000007188,Equity,HK,Treasury,Risk Management,PTF_291,CP_2914,Liability,35264782.87
+DE0000007198,Govt Bond,JP,Structured Products,Product Control FI,PTF_608,CP_4893,Liability,22598056.95
+DE0000007208,FX Forward,SG,FX & Commodities,Product Control EQ,PTF_214,CP_7131,Asset,38890630.62
+US0000007218,Repo,SG,Fixed Income,Risk Management,PTF_612,CP_3524,Asset,17009094.63
+JP0000007228,Commercial Paper,JP,FX & Commodities,Product Control EQ,PTF_887,CP_2609,Asset,10263329.57
+US0000007238,Repo,CA,Wealth Management,Operations Signoff,PTF_218,CP_1067,Liability,46617205.51
+FR0000007248,Corp Bond,CH,Structured Products,Product Control FI,PTF_205,CP_9529,Liability,1128900.66
+DE0000007258,FX Forward,CH,Equities,Product Control EQ,PTF_393,CP_5532,Liability,38640490.93
+US0000007268,IRS Swap,DE,Equities,Treasury Control,PTF_217,CP_1249,Asset,10332836.09
+DE0000007278,Commercial Paper,CH,FX & Commodities,Product Control EQ,PTF_821,CP_5641,Asset,8567892.4
+DE0000007288,Future,ES,FX & Commodities,Operations Signoff,PTF_554,CP_1831,Asset,1454489.35
+US0000007298,Corp Bond,CA,Fixed Income,Product Control FI,PTF_536,CP_7421,Asset,35235356.3
+FR0000007308,Repo,HK,FX & Commodities,Treasury Control,PTF_440,CP_4246,Asset,48684226.04
+JP0000007318,Future,DE,Fixed Income,Risk Management,PTF_199,CP_8464,Liability,34225476.35
+JP0000007328,Repo,FR,Equities,Product Control EQ,PTF_981,CP_5227,Liability,19606885.53
+DE0000007338,CDS,AU,Structured Products,Product Control FI,PTF_166,CP_8787,Asset,17575283.83
+JP0000007348,Equity,JP,FX & Commodities,Operations Signoff,PTF_688,CP_3087,Asset,20287270.68
+US0000007358,CDS,SG,Wealth Management,Product Control FI,PTF_911,CP_5949,Liability,20043819.66
+JP0000007368,FX Forward,HK,Equities,Operations Signoff,PTF_262,CP_8903,Liability,3307666.43
+GB0000007378,Future,CA,Structured Products,Operations Signoff,PTF_906,CP_6606,Asset,8658407.38
+US0000007388,Future,IT,Structured Products,Product Control FI,PTF_706,CP_8584,Liability,27756609.62
+JP0000007398,Equity,JP,Structured Products,Product Control FI,PTF_712,CP_2781,Liability,16373775.11
+US0000007408,Corp Bond,FR,Equities,Operations Signoff,PTF_873,CP_1003,Asset,33045765.28
+JP0000007418,Commercial Paper,JP,Structured Products,Operations Signoff,PTF_691,CP_8326,Asset,10287055.79
+DE0000007428,IRS Swap,HK,Wealth Management,Treasury Control,PTF_545,CP_6640,Asset,29138435.26
+FR0000007438,Commercial Paper,CA,Equities,Treasury Control,PTF_163,CP_7049,Asset,47161.49
+FR0000007448,CDS,GB,FX & Commodities,Product Control FI,PTF_340,CP_8073,Liability,31262589.1
+JP0000007458,Option,CA,Structured Products,Operations Signoff,PTF_316,CP_3841,Liability,6957747.94
+FR0000007468,Option,IT,FX & Commodities,Risk Management,PTF_257,CP_5726,Asset,6718201.02
+US0000007478,Govt Bond,DE,Wealth Management,Risk Management,PTF_773,CP_8155,Asset,4237748.9
+JP0000007488,Repo,ES,Wealth Management,Operations Signoff,PTF_535,CP_3945,Liability,25473198.65
+FR0000007498,Repo,CA,FX & Commodities,Product Control EQ,PTF_290,CP_7959,Asset,28899035.35
+GB0000007508,Commercial Paper,JP,Structured Products,Operations Signoff,PTF_690,CP_7012,Asset,48911781.3
+FR0000007518,Repo,LU,FX & Commodities,Product Control FI,PTF_694,CP_8889,Asset,7108663.56
+FR0000007528,IRS Swap,AU,Treasury,Product Control FI,PTF_635,CP_2449,Asset,23625216.36
+US0000007538,Commercial Paper,IE,Treasury,Treasury Control,PTF_727,CP_1864,Liability,26753987.91
+US0000007548,Repo,AU,Treasury,Risk Management,PTF_687,CP_6431,Liability,17648962.51
+DE0000007558,IRS Swap,DE,Fixed Income,Operations Signoff,PTF_867,CP_5981,Liability,3075581.07
+JP0000007568,Future,DE,Treasury,Product Control FI,PTF_772,CP_5780,Asset,14344348.64
+US0000007578,Equity,SG,Fixed Income,Treasury Control,PTF_358,CP_3171,Liability,13764479.66
+DE0000007588,Govt Bond,LU,Fixed Income,Operations Signoff,PTF_278,CP_3476,Liability,18491492.66
+GB0000007598,IRS Swap,IE,Wealth Management,Product Control EQ,PTF_596,CP_3962,Asset,17145685.53
+US0000007608,Equity,HK,Equities,Risk Management,PTF_870,CP_7765,Liability,11901182.22
+JP0000007618,Equity,FR,Treasury,Treasury Control,PTF_155,CP_5331,Asset,2630897.23
+JP0000007628,Option,AU,FX & Commodities,Risk Management,PTF_864,CP_9724,Asset,18993140.7
+JP0000007638,Repo,JP,Equities,Operations Signoff,PTF_991,CP_8122,Asset,14443167.15
+JP0000007648,Option,NL,FX & Commodities,Operations Signoff,PTF_799,CP_1672,Asset,45886018.49
+DE0000007658,Option,HK,Wealth Management,Treasury Control,PTF_443,CP_5429,Liability,40116806.46
+DE0000007668,Future,CA,Structured Products,Product Control EQ,PTF_851,CP_4193,Liability,33887519.42
+GB0000007678,CDS,SG,Fixed Income,Product Control FI,PTF_951,CP_2113,Asset,20565382.09
+FR0000007688,Corp Bond,NL,Structured Products,Treasury Control,PTF_324,CP_5641,Liability,9658011.17
+US0000007698,Future,GB,Fixed Income,Operations Signoff,PTF_772,CP_4552,Asset,35405214.92
+US0000007708,Corp Bond,IT,Treasury,Product Control EQ,PTF_484,CP_4027,Asset,34784203.41
+DE0000007718,IRS Swap,AU,Wealth Management,Product Control FI,PTF_754,CP_8429,Liability,38469109.7
+DE0000007728,IRS Swap,DE,Fixed Income,Treasury Control,PTF_895,CP_2022,Liability,19432578.43
+US0000007738,IRS Swap,IT,FX & Commodities,Product Control EQ,PTF_551,CP_2137,Liability,48971201.9
+GB0000007748,Future,CA,Equities,Risk Management,PTF_211,CP_3357,Liability,10923232.98
+US0000007758,Repo,LU,FX & Commodities,Product Control FI,PTF_135,CP_2194,Asset,28569371.27
+DE0000007768,Repo,US,Structured Products,Product Control EQ,PTF_768,CP_1014,Asset,33231968.8
+DE0000007778,Equity,LU,FX & Commodities,Risk Management,PTF_688,CP_1060,Liability,23909580.61
+JP0000007788,Corp Bond,SG,Equities,Product Control FI,PTF_493,CP_8898,Asset,28364358.06
+DE0000007798,CDS,NL,FX & Commodities,Risk Management,PTF_156,CP_2485,Liability,26733641.7
+DE0000007808,Corp Bond,IT,Structured Products,Treasury Control,PTF_763,CP_4327,Asset,27726001.21
+JP0000007818,FX Forward,JP,Wealth Management,Risk Management,PTF_209,CP_6886,Liability,4247699.92
+JP0000007828,FX Forward,DE,Fixed Income,Product Control EQ,PTF_125,CP_4907,Liability,19441432.84
+FR0000007838,IRS Swap,AU,Treasury,Risk Management,PTF_116,CP_1606,Liability,2807442.38
+US0000007848,Option,GB,Equities,Operations Signoff,PTF_569,CP_9791,Asset,37053869.71
+GB0000007858,Corp Bond,US,Wealth Management,Product Control EQ,PTF_600,CP_1312,Liability,45359408.01
+FR0000007868,Govt Bond,FR,Wealth Management,Product Control EQ,PTF_114,CP_3822,Asset,45233594.22
+US0000007878,Repo,HK,Equities,Operations Signoff,PTF_165,CP_2742,Asset,24859689.11
+FR0000007888,FX Forward,GB,Equities,Risk Management,PTF_445,CP_7586,Liability,6044517.97
+FR0000007898,Commercial Paper,DE,FX & Commodities,Product Control EQ,PTF_882,CP_1746,Asset,16778508.86
+US0000007908,IRS Swap,DE,Structured Products,Product Control EQ,PTF_813,CP_7060,Asset,21935867.3
+FR0000007918,Govt Bond,DE,Fixed Income,Operations Signoff,PTF_485,CP_3584,Asset,43981948.91
+US0000007928,Govt Bond,US,Equities,Product Control FI,PTF_823,CP_5648,Liability,34676708.85
+JP0000007938,Equity,FR,Equities,Treasury Control,PTF_635,CP_8379,Liability,11966491.68
+GB0000007948,Future,LU,Fixed Income,Operations Signoff,PTF_284,CP_9190,Asset,31361446.74
+DE0000007958,CDS,CA,Fixed Income,Operations Signoff,PTF_341,CP_4144,Asset,49330243.22
+US0000007968,Future,CH,Treasury,Operations Signoff,PTF_324,CP_8605,Asset,13824947.06
+GB0000007978,Corp Bond,IE,Equities,Risk Management,PTF_609,CP_3888,Asset,33508781.04
+US0000007988,Govt Bond,NL,FX & Commodities,Treasury Control,PTF_314,CP_8121,Liability,16718059.99
+JP0000007998,Govt Bond,GB,Wealth Management,Product Control FI,PTF_650,CP_3881,Asset,39275673.44
+JP0000008008,Commercial Paper,GB,Fixed Income,Product Control EQ,PTF_838,CP_8287,Liability,20956218.38
+DE0000008018,FX Forward,IE,Fixed Income,Treasury Control,PTF_333,CP_2606,Asset,36888704.56
+GB0000008028,Option,ES,Equities,Product Control FI,PTF_582,CP_8936,Asset,44524989.75
+GB0000008038,FX Forward,ES,Treasury,Risk Management,PTF_282,CP_7346,Liability,6824548.71
+GB0000008048,CDS,JP,Equities,Treasury Control,PTF_230,CP_1525,Asset,14033804.72
+US0000008058,Repo,AU,Structured Products,Product Control EQ,PTF_878,CP_6629,Asset,44321016.55
+FR0000008068,Equity,IE,Wealth Management,Operations Signoff,PTF_274,CP_4763,Asset,20587748.64
+FR0000008078,Repo,IT,Equities,Operations Signoff,PTF_584,CP_8581,Liability,730120.33
+JP0000008088,FX Forward,FR,FX & Commodities,Risk Management,PTF_693,CP_4643,Asset,45688167.27
+US0000008098,Option,US,Fixed Income,Risk Management,PTF_851,CP_9261,Asset,21287753.69
+JP0000008108,Repo,IE,Wealth Management,Product Control FI,PTF_563,CP_9114,Asset,4159160.74
+US0000008118,Option,FR,Equities,Treasury Control,PTF_402,CP_4916,Asset,801428.57
+DE0000008128,Equity,LU,Structured Products,Operations Signoff,PTF_865,CP_1399,Liability,23190713.32
+GB0000008138,Option,DE,FX & Commodities,Risk Management,PTF_820,CP_1022,Asset,19247039.0
+DE0000008148,Commercial Paper,US,FX & Commodities,Risk Management,PTF_870,CP_5420,Asset,39385653.75
+US0000008158,Future,ES,FX & Commodities,Product Control FI,PTF_627,CP_6963,Asset,5552772.35
+DE0000008168,Repo,HK,Fixed Income,Treasury Control,PTF_475,CP_3871,Asset,28040106.64
+GB0000008178,Equity,CH,Equities,Operations Signoff,PTF_216,CP_8839,Asset,37659909.05
+GB0000008188,CDS,CH,FX & Commodities,Operations Signoff,PTF_796,CP_7929,Liability,2727727.55
+DE0000008198,CDS,AU,Structured Products,Operations Signoff,PTF_639,CP_3010,Liability,35492715.31
+FR0000008208,IRS Swap,AU,Treasury,Treasury Control,PTF_919,CP_2075,Asset,44595701.15
+JP0000008218,Corp Bond,GB,Structured Products,Product Control EQ,PTF_395,CP_2260,Asset,8242487.01
+US0000008228,Equity,AU,Equities,Product Control EQ,PTF_633,CP_1371,Liability,20829750.26
+FR0000008238,Equity,AU,FX & Commodities,Risk Management,PTF_554,CP_1351,Liability,9457087.63
+US0000008248,FX Forward,IT,Treasury,Treasury Control,PTF_521,CP_6616,Liability,24309988.84
+FR0000008258,Commercial Paper,AU,Structured Products,Treasury Control,PTF_680,CP_3161,Liability,8590997.59
+DE0000008268,FX Forward,AU,FX & Commodities,Treasury Control,PTF_888,CP_1775,Asset,17659279.16
+JP0000008278,Equity,HK,Equities,Operations Signoff,PTF_392,CP_3986,Asset,41967387.19
+GB0000008288,Equity,FR,Fixed Income,Product Control FI,PTF_424,CP_3072,Liability,13024057.83
+GB0000008298,FX Forward,SG,Wealth Management,Product Control FI,PTF_781,CP_6192,Liability,7401471.02
+JP0000008308,Commercial Paper,DE,Treasury,Treasury Control,PTF_224,CP_1408,Liability,46553790.45
+GB0000008318,Repo,ES,FX & Commodities,Product Control EQ,PTF_104,CP_9948,Liability,32363961.38
+DE0000008328,Repo,ES,FX & Commodities,Operations Signoff,PTF_782,CP_3409,Liability,16937528.07
+US0000008338,Repo,ES,Fixed Income,Product Control EQ,PTF_794,CP_2914,Liability,1244655.76
+FR0000008348,FX Forward,AU,FX & Commodities,Product Control FI,PTF_434,CP_1901,Asset,29173654.92
+GB0000008358,IRS Swap,FR,Fixed Income,Product Control FI,PTF_651,CP_8298,Asset,48792096.15
+JP0000008368,FX Forward,AU,FX & Commodities,Operations Signoff,PTF_719,CP_9381,Asset,45422805.28
+DE0000008378,Option,DE,Wealth Management,Risk Management,PTF_478,CP_7326,Liability,614478.6
+DE0000008388,CDS,JP,Structured Products,Operations Signoff,PTF_189,CP_4533,Liability,37077676.19
+JP0000008398,Repo,JP,Equities,Risk Management,PTF_846,CP_7786,Asset,41776399.06
+FR0000008408,Corp Bond,DE,Equities,Treasury Control,PTF_586,CP_9606,Liability,3310458.48
+FR0000008418,Option,GB,Fixed Income,Risk Management,PTF_754,CP_5478,Liability,8748776.08
+JP0000008428,Future,IE,Equities,Product Control EQ,PTF_290,CP_7254,Liability,27695576.99
+US0000008438,IRS Swap,IT,Treasury,Treasury Control,PTF_605,CP_8593,Asset,1346866.53
+US0000008448,Equity,JP,FX & Commodities,Risk Management,PTF_227,CP_5713,Liability,8972718.48
+GB0000008458,Govt Bond,GB,FX & Commodities,Risk Management,PTF_168,CP_6927,Liability,28280901.61
+DE0000008468,Repo,LU,Fixed Income,Treasury Control,PTF_624,CP_1287,Liability,8146547.4
+US0000008478,Equity,CH,Structured Products,Product Control EQ,PTF_465,CP_3675,Asset,13637154.33
+JP0000008488,CDS,US,FX & Commodities,Treasury Control,PTF_642,CP_2258,Asset,38323289.67
+GB0000008498,Corp Bond,HK,Equities,Operations Signoff,PTF_430,CP_6180,Liability,13576591.39
+DE0000008508,Corp Bond,SG,Treasury,Treasury Control,PTF_943,CP_3354,Asset,6851787.56
+DE0000008518,CDS,IE,Structured Products,Risk Management,PTF_448,CP_3671,Asset,10897721.22
+FR0000008528,FX Forward,IT,Equities,Operations Signoff,PTF_728,CP_9612,Asset,20870226.14
+US0000008538,Corp Bond,IT,Equities,Product Control FI,PTF_591,CP_6705,Liability,34554079.92
+GB0000008548,Repo,ES,Treasury,Operations Signoff,PTF_881,CP_6604,Asset,35496194.67
+US0000008558,Corp Bond,FR,Equities,Product Control EQ,PTF_804,CP_4712,Liability,6271582.34
+GB0000008568,Corp Bond,CA,Wealth Management,Product Control FI,PTF_179,CP_1308,Liability,37867915.05
+US0000008578,FX Forward,GB,Fixed Income,Operations Signoff,PTF_707,CP_1971,Liability,5950516.29
+DE0000008588,Govt Bond,GB,FX & Commodities,Product Control FI,PTF_872,CP_2581,Asset,46005303.05
+GB0000008598,Future,ES,Equities,Product Control EQ,PTF_786,CP_6759,Asset,4543511.76
+DE0000008608,Future,CH,FX & Commodities,Product Control EQ,PTF_975,CP_9202,Asset,25247936.91
+US0000008618,Corp Bond,IT,Treasury,Product Control FI,PTF_641,CP_4555,Asset,48213368.63
+GB0000008628,Commercial Paper,US,Wealth Management,Product Control FI,PTF_319,CP_9260,Liability,18326318.97
+FR0000008638,Equity,AU,Wealth Management,Product Control FI,PTF_285,CP_6813,Liability,21207471.91
+FR0000008648,FX Forward,CA,Fixed Income,Treasury Control,PTF_226,CP_8633,Asset,25988780.43
+JP0000008658,CDS,LU,FX & Commodities,Operations Signoff,PTF_839,CP_1665,Asset,16409129.79
+US0000008668,Option,JP,Structured Products,Operations Signoff,PTF_853,CP_6111,Liability,11297542.12
+JP0000008678,IRS Swap,IT,Structured Products,Product Control EQ,PTF_977,CP_2140,Liability,46954404.68
+DE0000008688,Equity,US,Wealth Management,Risk Management,PTF_788,CP_2723,Liability,21905727.23
+US0000008698,Corp Bond,DE,Structured Products,Risk Management,PTF_811,CP_2666,Asset,3240197.01
+GB0000008708,CDS,FR,Treasury,Risk Management,PTF_225,CP_4815,Liability,36261399.01
+DE0000008718,Future,HK,FX & Commodities,Risk Management,PTF_464,CP_8795,Liability,49376222.47
+FR0000008728,IRS Swap,DE,Structured Products,Product Control FI,PTF_225,CP_5107,Liability,24866202.74
+GB0000008738,Govt Bond,GB,Wealth Management,Product Control FI,PTF_950,CP_2117,Liability,33906981.5
+GB0000008748,Option,HK,Wealth Management,Treasury Control,PTF_256,CP_5960,Asset,38009771.33
+FR0000008758,Repo,IE,Structured Products,Product Control EQ,PTF_400,CP_9157,Liability,25242213.83
+FR0000008768,CDS,IE,Treasury,Operations Signoff,PTF_118,CP_1517,Liability,44006882.92
+US0000008778,Option,AU,FX & Commodities,Risk Management,PTF_553,CP_8531,Asset,1647825.51
+FR0000008788,IRS Swap,ES,Wealth Management,Product Control EQ,PTF_603,CP_8056,Asset,15626421.47
+JP0000008798,Repo,IE,Fixed Income,Operations Signoff,PTF_791,CP_9037,Liability,23798173.21
+GB0000008808,Commercial Paper,US,Structured Products,Treasury Control,PTF_606,CP_7189,Liability,38324706.02
+DE0000008818,CDS,US,Fixed Income,Operations Signoff,PTF_146,CP_3100,Liability,17447095.01
+FR0000008828,Govt Bond,IE,Wealth Management,Treasury Control,PTF_489,CP_2594,Liability,17260425.66
+DE0000008838,Option,CH,Fixed Income,Product Control EQ,PTF_353,CP_4844,Liability,29628620.68
+US0000008848,IRS Swap,GB,FX & Commodities,Product Control EQ,PTF_120,CP_9821,Liability,1873694.2
+JP0000008858,Future,SG,Structured Products,Treasury Control,PTF_120,CP_8695,Asset,49288310.25
+JP0000008868,Future,CA,FX & Commodities,Operations Signoff,PTF_200,CP_9001,Asset,34544743.91
+GB0000008878,CDS,AU,Treasury,Treasury Control,PTF_270,CP_5907,Liability,48471540.5
+GB0000008888,Repo,NL,Fixed Income,Operations Signoff,PTF_319,CP_5708,Liability,2381330.4
+FR0000008898,Option,IE,Equities,Operations Signoff,PTF_860,CP_2506,Asset,29595273.45
+DE0000008908,Corp Bond,HK,Treasury,Risk Management,PTF_537,CP_4436,Liability,39783609.21
+DE0000008918,Commercial Paper,IE,FX & Commodities,Risk Management,PTF_779,CP_9846,Liability,10007848.89
+JP0000008928,IRS Swap,HK,Treasury,Risk Management,PTF_787,CP_9971,Asset,44045423.94
+FR0000008938,Equity,HK,Structured Products,Product Control EQ,PTF_776,CP_8656,Liability,46858460.46
+FR0000008948,Future,IT,Structured Products,Operations Signoff,PTF_844,CP_1981,Asset,18216912.08
+GB0000008958,FX Forward,DE,Wealth Management,Treasury Control,PTF_964,CP_8133,Liability,15936065.74
+US0000008968,FX Forward,IT,Structured Products,Treasury Control,PTF_943,CP_5702,Asset,12826049.51
+FR0000008978,FX Forward,CA,Equities,Product Control FI,PTF_253,CP_4144,Asset,12283102.56
+DE0000008988,Repo,AU,Treasury,Risk Management,PTF_532,CP_1606,Asset,7972127.64
+GB0000008998,Govt Bond,JP,FX & Commodities,Operations Signoff,PTF_280,CP_1691,Liability,39112776.08
+US0000009008,Corp Bond,CH,Treasury,Treasury Control,PTF_987,CP_2041,Liability,44839178.34
+US0000009018,Option,IT,Wealth Management,Product Control EQ,PTF_341,CP_2833,Asset,26100268.16
+FR0000009028,Commercial Paper,JP,Structured Products,Product Control FI,PTF_343,CP_3003,Liability,16467649.12
+FR0000009038,Option,IE,Wealth Management,Product Control EQ,PTF_533,CP_4571,Asset,5345166.59
+GB0000009048,IRS Swap,AU,Structured Products,Treasury Control,PTF_983,CP_1916,Liability,26675831.17
+US0000009058,CDS,SG,Structured Products,Risk Management,PTF_799,CP_5036,Liability,43972279.88
+GB0000009068,CDS,AU,Wealth Management,Treasury Control,PTF_941,CP_6049,Asset,32271652.43
+FR0000009078,Govt Bond,IT,Wealth Management,Product Control FI,PTF_807,CP_4926,Liability,27638631.53
+DE0000009088,CDS,ES,Wealth Management,Product Control FI,PTF_647,CP_4872,Liability,19426608.39
+JP0000009098,IRS Swap,JP,Fixed Income,Product Control EQ,PTF_404,CP_4446,Asset,45794960.61
+DE0000009108,Option,IE,Fixed Income,Treasury Control,PTF_987,CP_2312,Liability,23557208.71
+JP0000009118,CDS,LU,Structured Products,Product Control FI,PTF_944,CP_3627,Liability,25319194.02
+DE0000009128,Option,HK,Wealth Management,Operations Signoff,PTF_855,CP_6353,Liability,34762028.92
+US0000009138,Equity,NL,Structured Products,Product Control EQ,PTF_103,CP_7564,Asset,31416672.18
+DE0000009148,Future,GB,Fixed Income,Product Control EQ,PTF_355,CP_9460,Asset,42348786.69
+JP0000009158,CDS,AU,Structured Products,Product Control EQ,PTF_366,CP_3842,Liability,39977435.75
+GB0000009168,Corp Bond,CA,FX & Commodities,Product Control EQ,PTF_502,CP_7182,Asset,1041628.21
+US0000009178,Commercial Paper,NL,Treasury,Product Control EQ,PTF_191,CP_8576,Asset,13092849.36
+GB0000009188,Govt Bond,CA,Treasury,Risk Management,PTF_714,CP_5262,Asset,4457618.06
+DE0000009198,Equity,HK,Fixed Income,Product Control FI,PTF_835,CP_9615,Liability,38669099.23
+JP0000009208,Repo,GB,Equities,Product Control EQ,PTF_295,CP_5361,Liability,37323419.26
+JP0000009218,Equity,CA,Equities,Operations Signoff,PTF_320,CP_5636,Asset,20919457.9
+JP0000009228,Equity,US,FX & Commodities,Treasury Control,PTF_341,CP_8388,Asset,18485038.79
+JP0000009238,Corp Bond,US,Structured Products,Product Control EQ,PTF_992,CP_6296,Liability,34344188.2
+JP0000009248,Option,LU,Treasury,Treasury Control,PTF_174,CP_2561,Asset,2610370.02
+GB0000009258,Repo,ES,FX & Commodities,Operations Signoff,PTF_786,CP_1745,Asset,12686575.86
+FR0000009268,Option,JP,Structured Products,Treasury Control,PTF_235,CP_1673,Asset,13018281.15
+FR0000009278,Repo,ES,FX & Commodities,Risk Management,PTF_235,CP_2468,Liability,35514227.46
+JP0000009288,Equity,JP,Fixed Income,Treasury Control,PTF_145,CP_3095,Liability,43584619.56
+DE0000009298,CDS,ES,Structured Products,Treasury Control,PTF_997,CP_5312,Liability,25851049.42
+JP0000009308,Equity,CH,Wealth Management,Risk Management,PTF_882,CP_3478,Liability,2665843.3
+GB0000009318,Govt Bond,FR,Equities,Product Control FI,PTF_581,CP_5263,Asset,35299613.31
+JP0000009328,Corp Bond,ES,Structured Products,Product Control FI,PTF_552,CP_6841,Liability,22890696.42
+US0000009338,Equity,GB,FX & Commodities,Product Control FI,PTF_308,CP_5654,Asset,41748508.21
+FR0000009348,IRS Swap,HK,Wealth Management,Operations Signoff,PTF_317,CP_1067,Asset,20823867.47
+US0000009358,FX Forward,IE,Structured Products,Product Control FI,PTF_436,CP_1425,Liability,34067210.68
+US0000009368,Option,CH,Treasury,Product Control FI,PTF_957,CP_6300,Asset,1448580.74
+JP0000009378,Repo,AU,Wealth Management,Treasury Control,PTF_708,CP_1095,Liability,48488676.84
+FR0000009388,Repo,CH,Wealth Management,Operations Signoff,PTF_232,CP_4463,Asset,40078890.36
+DE0000009398,CDS,IE,Fixed Income,Product Control FI,PTF_660,CP_7248,Asset,19945930.56
+GB0000009408,FX Forward,IE,Structured Products,Product Control FI,PTF_121,CP_4411,Asset,19428202.57
+JP0000009418,IRS Swap,NL,Wealth Management,Product Control EQ,PTF_223,CP_5891,Liability,40056015.56
+DE0000009428,Future,DE,FX & Commodities,Product Control FI,PTF_952,CP_7020,Asset,24483703.68
+JP0000009438,Repo,JP,Treasury,Operations Signoff,PTF_533,CP_2478,Liability,40550663.01
+FR0000009448,Equity,CA,Wealth Management,Risk Management,PTF_195,CP_1662,Liability,48663723.17
+GB0000009458,Equity,ES,Structured Products,Operations Signoff,PTF_744,CP_9596,Asset,14538697.71
+JP0000009468,Corp Bond,ES,Structured Products,Treasury Control,PTF_252,CP_3093,Liability,42077690.02
+FR0000009478,Option,JP,Treasury,Product Control FI,PTF_664,CP_2253,Asset,25673158.82
+FR0000009488,Option,CA,Fixed Income,Risk Management,PTF_776,CP_5151,Liability,12746735.92
+US0000009498,Commercial Paper,US,Fixed Income,Risk Management,PTF_283,CP_3985,Liability,2267709.52
+JP0000009508,IRS Swap,CH,Treasury,Risk Management,PTF_875,CP_8371,Liability,17070012.33
+GB0000009518,FX Forward,DE,Fixed Income,Operations Signoff,PTF_365,CP_2742,Liability,26721128.27
+US0000009528,Option,GB,Fixed Income,Product Control EQ,PTF_771,CP_8817,Liability,34591852.47
+FR0000009538,Repo,JP,Treasury,Operations Signoff,PTF_469,CP_7471,Liability,4386318.36
+GB0000009548,Govt Bond,FR,Fixed Income,Product Control FI,PTF_812,CP_4083,Asset,10465427.87
+GB0000009558,FX Forward,CA,Wealth Management,Operations Signoff,PTF_295,CP_2410,Liability,38487208.71
+GB0000009568,Repo,CA,Fixed Income,Product Control FI,PTF_270,CP_3497,Liability,48193524.2
+JP0000009578,Govt Bond,IT,Structured Products,Operations Signoff,PTF_348,CP_4298,Liability,28473675.93
+JP0000009588,Govt Bond,CH,Fixed Income,Product Control FI,PTF_745,CP_8074,Liability,42431569.97
+FR0000009598,Future,LU,Treasury,Treasury Control,PTF_137,CP_8987,Liability,24307617.53
+FR0000009608,Future,ES,Wealth Management,Risk Management,PTF_337,CP_1994,Asset,21103117.35
+DE0000009618,Commercial Paper,GB,FX & Commodities,Risk Management,PTF_584,CP_2915,Liability,31136721.01
+DE0000009628,Repo,LU,Structured Products,Product Control FI,PTF_265,CP_5718,Asset,23464675.65
+JP0000009638,FX Forward,SG,Equities,Operations Signoff,PTF_801,CP_6556,Liability,6562272.56
+DE0000009648,Option,CA,Wealth Management,Treasury Control,PTF_915,CP_8738,Asset,31094009.71
+DE0000009658,Corp Bond,NL,Structured Products,Product Control EQ,PTF_277,CP_4268,Asset,30289421.62
+US0000009668,Option,AU,FX & Commodities,Product Control EQ,PTF_314,CP_1770,Asset,17942543.74
+DE0000009678,CDS,NL,Equities,Product Control EQ,PTF_947,CP_9248,Asset,40341743.06
+DE0000009688,Option,GB,Treasury,Product Control EQ,PTF_223,CP_4671,Liability,12894817.94
+DE0000009698,CDS,IE,Fixed Income,Operations Signoff,PTF_373,CP_3476,Asset,35321713.84
+JP0000009708,Repo,IT,Fixed Income,Product Control FI,PTF_900,CP_2669,Asset,25367749.83
+GB0000009718,Corp Bond,IT,Equities,Treasury Control,PTF_260,CP_5786,Liability,38099424.68
+JP0000009728,Corp Bond,DE,Wealth Management,Treasury Control,PTF_442,CP_3257,Asset,42430511.61
+JP0000009738,Option,IE,Fixed Income,Product Control EQ,PTF_954,CP_8760,Liability,14341481.21
+GB0000009748,Corp Bond,JP,FX & Commodities,Risk Management,PTF_469,CP_5021,Asset,37661546.9
+FR0000009758,Option,IE,Equities,Product Control EQ,PTF_921,CP_8025,Liability,45901412.79
+JP0000009768,Commercial Paper,IE,Wealth Management,Treasury Control,PTF_130,CP_8251,Asset,38508742.29
+FR0000009778,Corp Bond,GB,FX & Commodities,Treasury Control,PTF_511,CP_3692,Liability,3078109.08
+US0000009788,Equity,ES,Treasury,Product Control FI,PTF_746,CP_9516,Liability,20968168.36
+FR0000009798,IRS Swap,LU,Wealth Management,Treasury Control,PTF_452,CP_1129,Liability,45010925.05
+FR0000009808,Equity,LU,Structured Products,Risk Management,PTF_759,CP_4360,Liability,34875060.92
+JP0000009818,FX Forward,ES,FX & Commodities,Product Control FI,PTF_137,CP_9805,Liability,19502726.98
+GB0000009828,Commercial Paper,SG,FX & Commodities,Product Control EQ,PTF_195,CP_9383,Liability,26069186.58
+GB0000009838,Govt Bond,US,Treasury,Operations Signoff,PTF_364,CP_4954,Liability,36326829.77
+FR0000009848,Corp Bond,LU,Fixed Income,Treasury Control,PTF_365,CP_9314,Liability,6195031.86
+US0000009858,Repo,JP,Treasury,Product Control FI,PTF_564,CP_6553,Asset,40270351.17
+FR0000009868,Future,LU,Wealth Management,Operations Signoff,PTF_964,CP_4831,Liability,14963584.48
+FR0000009878,Equity,LU,Structured Products,Operations Signoff,PTF_855,CP_5057,Asset,16395708.92
+FR0000009888,FX Forward,IT,FX & Commodities,Risk Management,PTF_200,CP_3401,Liability,41422739.28
+US0000009898,Corp Bond,US,Structured Products,Product Control EQ,PTF_587,CP_4519,Liability,3908244.25
+FR0000009908,Option,HK,Treasury,Operations Signoff,PTF_897,CP_7468,Liability,29217267.36
+JP0000009918,Repo,LU,Structured Products,Risk Management,PTF_943,CP_3668,Asset,25291765.61
+JP0000009928,Repo,DE,Wealth Management,Operations Signoff,PTF_983,CP_9669,Asset,34725062.91
+JP0000009938,Repo,US,Wealth Management,Product Control EQ,PTF_672,CP_7051,Asset,30082002.69
+JP0000009948,Corp Bond,GB,FX & Commodities,Operations Signoff,PTF_396,CP_1659,Asset,5891521.96
+DE0000009958,CDS,JP,FX & Commodities,Risk Management,PTF_128,CP_3340,Asset,39190706.04
+JP0000009968,Govt Bond,ES,FX & Commodities,Treasury Control,PTF_320,CP_3999,Liability,109277.26
+FR0000009978,CDS,GB,Fixed Income,Risk Management,PTF_592,CP_6074,Liability,45014862.96
+JP0000009988,Repo,IT,Wealth Management,Operations Signoff,PTF_235,CP_3269,Liability,38085130.66
+JP0000009998,Equity,IT,Wealth Management,Treasury Control,PTF_191,CP_7711,Liability,11644950.06
+JP0000010008,CDS,SG,Fixed Income,Risk Management,PTF_853,CP_5544,Asset,43298348.9
